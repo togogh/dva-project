@@ -1,210 +1,108 @@
 ,id,mnemonic,description,geoglevel
-0,NM_2020_1,c2021ts007a,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by five-year age bands. The estimates are as at Census Day, 21 March 2021","oa,msoa,la"
-1,NM_2021_1,c2021ts001,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by whether they resided in households and communal establishments. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-2,NM_2022_1,c2021ts002,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by their legal partnership status. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-3,NM_2023_1,c2021ts003,"This dataset provides Census 2021 estimates that classify households in England and Wales by the relationships between household members (household composition). The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-4,NM_2024_1,c2021ts004,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their country of birth. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-5,NM_2025_1,c2021ts005,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by passports held. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-6,NM_2026_1,c2021ts006,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by population density (number of usual residents per square kilometre). The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-7,NM_2027_1,c2021ts007,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by single year of age. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-8,NM_2028_1,c2021ts008,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by sex. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-9,NM_2029_1,c2021ts009,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by sex and single year of age. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.",la
-10,NM_2030_1,c2021ts010,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in households in England and Wales by their living arrangements. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-11,NM_2031_1,c2021ts011,"This dataset provides Census 2021 estimates that classify households in England and Wales by four dimensions of deprivation: Employment, education, health and disability, and household overcrowding. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-12,NM_2032_1,c2021ts012,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their country of birth. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.",la
-13,NM_2033_1,c2021ts013,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by passports held. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-14,NM_2035_1,c2021ts015,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their year of arrival in the UK. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-15,NM_2036_1,c2021ts016,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their length of residence in the UK. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-16,NM_2037_1,c2021ts017,"This dataset provides Census 2021 estimates that classify all households in England and Wales by household size. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-17,NM_2038_1,c2021ts018,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their age of arrival in the UK. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-18,NM_2039_1,c2021ts019,"This dataset provides Census 2021 estimates that classify usual residents aged one year and over in England and Wales by their address one year ago, in order to determine their status as a migrant from within or outside the UK. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-19,NM_2040_1,c2021ts020,"This dataset provides Census 2021 estimates that classify non-UK born short-term residents in England and Wales by sex. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-20,NM_2041_1,c2021ts021,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by ethnic group. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-21,NM_2042_1,c2021ts023,"This dataset provides Census 2021 estimates that classify households in England and Wales by the diversity in ethnic group of household members in different relationships. The estimates are as at Census Day, 21 March 2021.","oa,msoa,la"
-22,NM_2043_1,c2021ts024,"This dataset provides Census 2021 estimates that classify usual residents aged 3 years and over in England and Wales by their main language. The estimates are as at Census Day, 21 March 2021.",la
-23,NM_2044_1,c2021ts025,"This dataset provides Census 2021 estimates that classify households in England and Wales by the combination of adults and children within a household that have English (English or Welsh in Wales) as a main language. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-24,NM_2045_1,c2021ts026,"This dataset provides Census 2021 estimates that classify households in England and Wales by the combination of household members speaking the same or different main languages. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-25,NM_2046_1,c2021ts027,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their national identity. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-26,NM_2047_1,c2021ts028,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their national identity. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-27,NM_2048_1,c2021ts029,"This dataset provides Census 2021 estimates that classify usual residents aged 3 years and over in England and Wales by their proficiency in English. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-28,NM_2049_1,c2021ts030,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by religion. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-29,NM_2050_1,c2021ts032,"This dataset provides Census 2021 estimates that classify usual residents in Wales by their overall Welsh language skills. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-30,NM_2051_1,c2021ts033,"This dataset provides Census 2021 estimates that classify usual residents aged 3 years and over in Wales by their ability to speak Welsh. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-31,NM_2052_1,c2021ts034,"This dataset provides Census 2021 estimates that classify usual residents aged 3 years and over in Wales by their ability to write Welsh. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-32,NM_2053_1,c2021ts035,"This dataset provides Census 2021 estimates that classify usual residents aged 3 years and over in Wales by their ability to read Welsh. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-33,NM_2054_1,c2021ts036,"This dataset provides Census 2021 estimates that classify usual residents aged 3 years and over in Wales by their ability to understand Welsh. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-34,NM_2055_1,c2021ts037,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by the state of their general health. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-35,NM_2056_1,c2021ts038,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by long-term health problems or disabilities. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-36,NM_2057_1,c2021ts039,"This dataset provides Census 2021 estimates that classify usual residents aged 5 years and over in England and Wales by the number of hours of unpaid care they provide. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-37,NM_2058_1,c2021ts040,"This dataset provides Census 2021 estimates that classify households in England and Wales by the number of disabled people in the household. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-38,NM_2059_1,c2021ts041,"This dataset provides Census 2021 estimates on the number of households in England and Wales. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-39,NM_2060_1,c2021ts077,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by sexual orientation. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-40,NM_2061_1,c2021ts078,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by gender identity. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-41,NM_2062_1,c2021ts044,"This dataset provides Census 2021 estimates that classify households in England and Wales by accommodation type. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-42,NM_2063_1,c2021ts045,"This dataset provides Census 2021 estimates on the number of cars or vans available to members of households for England and Wales. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-43,NM_2064_1,c2021ts046,"This dataset provides Census 2021 estimates that classify occupied household spaces in England and Wales by the type of central heating present. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-44,NM_2065_1,c2021ts047,"This dataset provides Census 2021 estimates that classify communal establishment residents in England and Wales by age and by sex. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-45,NM_2066_1,c2021ts048,"This dataset provides Census 2021 estimates that classify communal establishment residents in England and Wales by the type of communal establishment they reside in. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-46,NM_2068_1,c2021ts050,"This dataset provides Census 2021 estimates that classify all household spaces with at least one usual resident in England and Wales by number of bedrooms. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-47,NM_2069_1,c2021ts051,"This dataset provides Census 2021 estimates that classify all household spaces with at least one usual resident in England and Wales by number of rooms. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-48,NM_2070_1,c2021ts052,"This dataset provides Census 2021 estimates that classify households in England and Wales by occupancy rating based on the number of bedrooms in the household. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-49,NM_2071_1,c2021ts053,"This dataset provides Census 2021 estimates that classify households in England and Wales by occupancy rating based on the number of rooms in the household. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-50,NM_2072_1,c2021ts054,"This dataset provides Census 2021 estimates that classify households in England and Wales by tenure. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-51,NM_2073_1,c2021ts055,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales with a second address by the purpose of that second address. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-52,NM_2074_1,c2021ts056,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their use of a second address, and whether the second address is inside or outside the UK. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-53,NM_2075_1,c2021ts058,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in employment the week before the census in England and Wales by the distance they travelled to work. The estimates are as at Census Day, 21 March 2021.
-   
-   Census 2021 took place during a period of rapid change. We gave extra guidance to help people on furlough answer the census questions about work. However, we are unable to determine how furloughed people followed the guidance. Take care when using this data for planning purposes. Read more about specific quality considerations in our https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/traveltoworkqualityinformationforcensus2021[Labour market quality information for Census 2021 methodology].
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-54,NM_2076_1,c2021ts059,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in employment the week before the census in England and Wales by the number of hours they worked per week. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-55,NM_2077_1,c2021ts060,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in employment the week before the census in England and Wales by industry. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-56,NM_2078_1,c2021ts061,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by their method used to travel to work (2001 specification). The estimates are as at Census Day, 21 March 2021.
-    Census 2021 took place during a period of rapid change. We gave extra guidance to help people on furlough answer the census questions about work. However, we are unable to determine how furloughed people followed the guidance. Take care when using this data for planning purposes. Read more about specific quality considerations in our https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/traveltoworkqualityinformationforcensus2021[Labour market quality information for Census 2021 methodology].
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-57,NM_2079_1,c2021ts062,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by National Statistics Socio-economic Classification (NS-SEC). The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-58,NM_2080_1,c2021ts063,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in employment the week before the census in England and Wales by occupation. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-59,NM_2081_1,c2021ts064,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in employment the week before the census in England and Wales by occupation. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-60,NM_2082_1,c2021ts065,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales who were not in employment on Census Day, 21 March 2021, by whether and when they were last employed. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","msoa,la"
-61,NM_2083_1,c2021ts066,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by economic activity status. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-62,NM_2084_1,c2021ts067,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by their highest level of qualification. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-63,NM_2085_1,c2021ts068,"This dataset provides Census 2021 estimates that classify all usual residents aged 5 years and over in England and Wales. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.","oa,msoa,la"
-64,NM_2086_1,c2021ts079,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by sexual orientation. The estimates are as at Census Day, 21 March 2021.",la
-65,NM_2087_1,c2021ts070,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by gender identity. The estimates are as at Census Day, 21 March 2021.",la
-66,NM_2088_1,c2021ts071,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in England and Wales by whether or not they have previously served in the UK armed forces. This does not include people who are currently serving in the UK armed forces. The estimates are as at Census Day, 21 March 2021.
+0,NM_144_1,c2011ks101ew,"This table provides information that classifies by sex for the usual resident population of England and Wales as at census day, 27 March 2011.
 
-Following analysis after publishing topic summaries data, we released data at extra geography levels for some datasets.","msoa,la"
-67,NM_2089_1,c2021ts072,"This dataset provides Census 2021 estimates that classify households in England and Wales by the number of people in the household who have previously served in the UK armed forces. The estimates are as at Census Day, 21 March 2021.
+The 2011 usual resident population is also classified by the number of residents living in households and those living in communal establishments.
 
-   Following analysis after publishing topic summaries data, we released data at extra geography levels for some datasets.","msoa,la"
-68,NM_2090_1,c2021ts073,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales who have previously served in the UK armed forces by whether they reside in communal establishments and in households. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-69,NM_2091_1,c2021ts074,"This dataset provides Census 2021 estimates that classify households in England and Wales by whether or not the Household Reference Person has previously served in the UK armed forces. The estimates are as at Census Day, 21 March 2021.
+ Additional information provided includes the area and population density for each area, and the number of students and schoolchildren who would reside in each area if they were not living away from their family home during term-time.","oa,ps"
+1,NM_145_1,c2011ks102ew,"This table provides information about the age structure, mean and median ages of usual residents of England and Wales as at census day, 27 March 2011.","oa,ps"
+2,NM_146_1,c2011ks403ew,"This table provides information about the rooms, bedrooms and central heating in households, for England and Wales as at census day, 27 March 2011. It includes information about the average size of households, whether they have central heating, the number of rooms and bedrooms, and the occupancy rating of the household (based on both rooms and bedrooms).","oa,ps"
+3,NM_158_1,c2011ks101uk,"This table provides information that classifies by sex for the usual resident population of United Kingdom as at census day, 27 March 2011.
 
-   Following analysis after publishing topic summaries data, we released data at extra geography levels for some datasets.","msoa,la"
-70,NM_2092_1,c2021ts037asp,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by the state of their general health. The estimates are as at Census Day, 21 March 2021. Age-standardisation allows for comparisons between populations that may contain proportions of different ages, represented as a percentage.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.",la
-71,NM_2093_1,c2021ts038asp,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by long-term health problems or disabilities. The estimates are as at Census Day, 21 March 2021. Age-standardisation allows for comparisons between populations that may contain proportions of different ages, represented as a percentage.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.",la
-72,NM_2094_1,c2021ts039asp,"This dataset provides Census 2021 estimates that classify usual residents aged 5 years and over in England and Wales by the number of hours of unpaid care they provide. The estimates are as at Census Day, 21 March 2021. Age-standardisation allows for comparisons between populations that may contain proportions of different ages, represented as a percentage.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.",la
-73,NM_2095_1,c2021ts022,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by ethnic group. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-74,NM_2096_1,c2021ts031,"This dataset provides Census 2021 estimates that classify usual residents in England and Wales by religion. The estimates are as at Census Day, 21 March 2021.","msoa,la"
-75,NM_2097_1,c2021ts075,"This dataset provides Census 2021 estimates that classify households in England and Wales by multi religion households. The estimates are as at Census Day, 21 March 2021.","oa,msoa,la"
-76,NM_2098_1,c2021ts076,"This dataset provides Census 2021 estimates that classify usual residents in Wales by their ability to speak Welsh by age. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.",la
-77,NM_2099_1,c2021ts048np,"This dataset provides Census 2021 estimates that classify communal establishment residents in national parks in England and Wales by the type of communal establishment they live in. The estimates are as at Census Day, 21 March 2021. 
+The 2011 usual resident population is also classified by the number of residents living in households and those living in communal establishments.
 
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.",la
-78,NM_2100_1,c2021ts060np,"This dataset provides Census 2021 estimates that classify usual residents aged 16 years and over in employment the week before the census in national parks in England and Wales by industry. The estimates are as at Census Day, 21 March 2021.
-   
-   National Park data are created by plotting unique properties as identified by their Unique Property Reference Number or postcodes into National Park boundaries current at December 2022. This differs from the OA best fit methodology used for other geographic level data.",la
-79,NM_2324_1,c2021ts045a,"This dataset provides Census 2021 estimates on the total number of cars or vans available to members of households in England and Wales. The estimates are as at Census Day, 21 March 2021.",la
+Additional information provided includes the area and population density for each area, and the number of students and schoolchildren who would reside in each area if they were not living away from their family home during term-time.
+
+'All full-time students and schoolchildren aged 4+ years living away from home during term time' figures for Northern Ireland sourced from table QS106NI.
+
+Area and Population Density figures for Noerthern Ireland sourced from table QS102NI.","oa,ps"
+4,NM_159_1,c2011ks102uk,"This table provides information about the age structure, mean and median ages of usual residents of United Kingdom as at census day, 27 March 2011.","oa,ps"
+5,NM_603_1,c2011ks103ew,"This table provides information that classified usual residents aged 16 and over by marital and civil partnership status, for England and Wales as at census day, 27 March 2011.
+
+This classification takes account of the Civil Partnership Act which came into force on 5 December 2005, providing information about civil partnership status for the first time in census results.","oa,ps"
+6,NM_604_1,c2011ks104ew,"This table provides information that classifies usual residents aged 16 and over in households by their living arrangements, for England and Wales as at census day, 27 March 2011. The living arrangements classification differs from marital and civil partnership status because cohabiting takes priority over other categories.","oa,ps"
+7,NM_605_1,c2011ks105ew,"This table provides information that classifies households by the relationships between the household members (household composition), for England and Wales as at census day, 27 March 2011.","oa,ps"
+8,NM_606_1,c2011ks106ew,"This table provides information that classifies households by the presence of dependent children, adults not in employment and people with a long-term health problem or disability. Information is provided for all households in England and Wales as at census day, 27 March 2011.","oa,ps"
+9,NM_607_1,c2011ks107ew,"This table provides information about lone parent households with dependent children, for England and Wales as at census day, 27 March 2011. Households are classified by the sex of the lone parent and their employment status.","oa,ps"
+10,NM_608_1,c2011ks201ew,"This table provides information about the ethnic group of the usual resident population of England and Wales as at census day, 27 March 2011.","oa,ps"
+11,NM_609_1,c2011ks202ew,"This table provides information that classifies usual residents by their national identity, for England and Wales as at census day, 27 March 2011.","oa,ps"
+12,NM_611_1,c2011ks204ew,"This table provides information that classifies usual residents by their county of birth, for England and Wales as at census day, 27 March 2011.","oa,ps"
+13,NM_612_1,c2011ks205ew,"This table provides information that classifies usual residents of England and Wales by passports held as at census day, 27 March 2011.","oa,ps"
+14,NM_613_1,c2011ks206ew,"This table provides information that classifies households by the combination of adults and children within a household that have English (English or Welsh in Wales) as a main language, for England and Wales as at census day, 27 March 2011. The definitions of adult (aged 16 and over) and child (aged under 16) used in this table are the non-standard versions. These are used in a small number of census results. For more information refer to 2011 Census glossary.","oa,ps"
+15,NM_614_1,c2011ks207wa,"This table provides information that classifies usual residents aged three and over by their Welsh language skills, for Wales as at census day, 27 March 2011.","oa,ps"
+16,NM_615_1,c2011ks208wa,"This ""Welsh language profile"" classifies usual residents aged 3 and over by Welsh language skills, for Wales as at census day, 27 March 2011. People with skills in Welsh are further categorised by key age groups","oa,ps"
+17,NM_616_1,c2011ks209ew,"This table provides information that classifies usual residents by religion, for England and Wales as at census day, 27 March 2011.","oa,ps"
+18,NM_617_1,c2011ks301ew,"This table provides information about the health of usual residents, for England and Wales as at census day, 27 March 2011. It also provides information about the number of providers of unpaid care and the number of hours of care that they provide.","oa,ps"
+19,NM_618_1,c2011ks401ew,"This table provides information about dwellings, household spaces and the accommodation type of households, for England and Wales as at census day, 27 March 2011.
+
+The results for dwellings are classified by the number that are shared or unshared, with shared dwellings further categorised by the number of household spaces in each dwelling. Household spaces are classified by the number that are occupied or unoccupied, and by type of accommodation.","oa,ps"
+20,NM_619_1,c2011ks402ew,"This table provides information that classifies households by tenure, for England and Wales as at census day, 27 March 2011.","oa,ps"
+21,NM_621_1,c2011ks404ew,"This table provides information about the number of cars or vans available to members of households, for England and Wales as at census day, 27 March 2011.","oa,ps"
+22,NM_622_1,c2011ks405ew,"This table provides information about the number of communal establishments and the number of usual residents in each type of establishment, for England and Wales as at census day, 27 March 2011.","oa,ps"
+23,NM_623_1,c2011ks501ew,"This table provides information that classifies usual residents aged 16 and over by their highest level of qualification, for England and Wales as at census day, 27 March 2011. The table also includes estimates of the number of schoolchildren and students in full-time education classified by economic activity.","oa,ps"
+24,NM_624_1,c2011ks601ew,"This table provides information that classifies usual residents aged 16 to 74 by economic activity, for England and Wales as at census day, 27 March 2011. It also provides additional information about the unemployed population (including full-time students), with estimates of the number of long-term unemployed, those who have never worked, and the classification of unemployed by key age groups.","oa,ps"
+25,NM_625_1,c2011ks604ew,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the number of hours worked, for England and Wales as at census day, 27 March 2011.","oa,ps"
+26,NM_626_1,c2011ks605ew,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the industry in which they work, for England and Wales as at census day, 27 March 2011.","oa,ps"
+27,NM_627_1,c2011ks608ew,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by occupation, for England and Wales as at census day, 27 March 2011.","oa,ps"
+28,NM_628_1,c2011ks611ew,"This table provides information about the National Statistics Socio-economic Classification (NS-SeC) of usual residents aged 16 to 74, for England and Wales as at census day, 27 March 2011.","oa,ps"
+29,NM_1500_1,c2011ks103uk,"This table provides information that classified usual residents aged 16 and over by marital and civil partnership status, for United Kingdom as at census day, 27 March 2011.
+
+This classification takes account of the Civil Partnership Act which came into force on 5 December 2005, providing information about civil partnership status for the first time in census results.",oa
+30,NM_1501_1,c2011ks104uk,"This table provides information that classifies usual residents aged 16 and over in households by their living arrangements, for United Kingdom as at census day, 27 March 2011. The living arrangements classification differs from marital and civil partnership status because cohabiting takes priority over other categories.",oa
+31,NM_1502_1,c2011ks105uk,"This table provides information that classifies households by the relationships between the household members (household composition), for United Kingdom as at census day, 27 March 2011.",oa
+32,NM_1503_1,c2011ks107uk,"This table provides information about lone parent households with dependent children, for United Kingdom as at census day, 27 March 2011. Households are classified by the sex of the lone parent and their employment status.",oa
+33,NM_1504_1,c2011ks201uk,"This table provides information about the ethnic group of the usual resident population of United Kingdom as at census day, 27 March 2011.
+
+The ethnic group classification presented in this table is the recommended framework from the 'Harmonised Concepts and Questions for Social Data Sources Primary Standards' for presentation of UK outputs on ethnic group.  See 'Ethnic Group Mapping' tab for the correspondence between UK classification and the country specific ethnic group classifications for which data was collected by each UK country.  
+ 
+The category 'White' could include Polish responses from the country specific question for Scotland which would have been outputted to ‘Other White’ and then included under ‘White’ for UK (also see (3) for issue with Gypsy, Traveller and Irish Traveller).  ‘White Africans’ may also have been recorded under ‘Other White’ and then included under ‘White’ for UK. 
+
+For Northern Ireland, ‘Irish Traveller' is collected under its own ethnic group.
+ 
+There are differences in data collection across the UK for ‘Gypsy, Traveller or Irish Traveller’, which make it difficult to produce a UK estimate. Gypsy, Traveller or Irish Traveller is collected in England and Wales and ‘Gypsy/Traveller’ is collected in Scotland and they are both output under ‘White’. However, if there is a need to show a UK output for, 'Gypsy, Traveller or Irish Traveller'(and the numbers are not small or disclosive,) the responses from the GB questions can be combined with the responses from the 'Irish Traveller' category from Northern Ireland.  Northern Ireland's framework for monitoring minority ethnic and migrant people' published by the Office of the First Minister and deputy First Minister in July 2011 recommends that Roma is categorised under 'Other' ethnic group. This is because there is a distinct category for Irish Travellers, who by law (Race Relations Order) are categorised as an ethnic group in their own right. Roma is not a subset of the Irish Traveller group and the need is to have accurate data on both Roma and on Irish Travellers). 
+
+'Mixed / Multiple Ethnic Groups' isn’t broken down for the country specific question for Scotland. 
+
+Differences in the terminology and data collection of the country specific Scotland question make these categories difficult to compare. The ‘African’ category in the Scottish question is presented in a separate section to the ‘Caribbean’ or ‘Black’ category, however, under the harmonised output these two categories are output as part of Black/African/Caribbean/Black British’. The African categories used in Scotland could potentially capture‘White/Asian/Other African’ in addition to ‘Black’ identities.",oa
+34,NM_1505_1,c2011ks301uk,"This table provides information about the health of usual residents, for United Kingdom as at census day, 27 March 2011. It also provides information about the number of providers of unpaid care and the number of hours of care that they provide.",oa
+35,NM_1506_1,c2011ks401uk,"This table provides information about dwellings, household spaces and the accommodation type of households, for United Kingdom as at census day, 27 March 2011.
+
+The results for dwellings are classified by the number that are shared or unshared, with shared dwellings further categorised by the number of household spaces in each dwelling. Household spaces are classified by the number that are occupied or unoccupied, and by type of accommodation.
+
+'All full-time students and schoolchildren aged 4+ years living away from home during term time' figures for Northern Ireland sourced from table QS106NI.
+
+'Household spaces with no usual residents' - in the equivalent country specific table for Scotland (KS401SC) shows a further breakdown of this category of 'household spaces with no usual residents' into (a) second residence / holiday accommodation and (b) vacant household spaces. This is not shown in the UK version of this table.",oa
+36,NM_1507_1,c2011ks402uk,"This table provides information that classifies households by tenure, for United Kingdom as at census day, 27 March 2011.",oa
+37,NM_1508_1,c2011ks404uk,"This table provides information about the number of cars or vans available to members of households, for United Kingdom as at census day, 27 March 2011.",oa
+38,NM_1509_1,c2011ks405uk,"This table provides information about the number of communal establishments and the number of usual residents in each type of establishment, for United Kingdom as at census day, 27 March 2011.
+
+In Northern Ireland this table is numbered KS407NI.
+
+Residents who are staff or owner and partners of staff or owner are not included in this table for Scotland, but are included in this table for England and Wales and Northern Ireland.  Therefore the total number of residents shown in this table for the UK, Great Britain, Scotland and Scottish council areas will not match figures for these areas shown in table QS421UK.",oa
+39,NM_1510_1,c2011ks501uk,"This table provides information that classifies usual residents aged 16 and over by their highest level of qualification, for United Kingdom as at census day, 27 March 2011. The table also includes estimates of the number of schoolchildren and students in full-time education classified by economic activity.
+
+Detail of the qualifications included in each 'highest level of qualification' category is shown here http://www.nomisweb.co.uk/articles/937.aspx
+
+'Apprenticeships' relate to England, Wales and Northern Ireland only.
+ 
+'Other qualifications' relate to England, Wales and Northern Ireland only.  This category consists of other vocational / work-related qualifications and non-UK / foreign qualifications.",oa
+40,NM_1511_1,c2011ks601uk,"This table provides information that classifies usual residents aged 16 to 74 by economic activity, for United Kingdom as at census day, 27 March 2011. It also provides additional information about the unemployed population (including full-time students), with estimates of the number of long-term unemployed, those who have never worked, and the classification of unemployed by key age groups.
+
+The category 'Carried out voluntary work: Aged 16-74 years' only applicable in Northern Ireland is not included in this table.",oa
+41,NM_1512_1,c2011ks602uk,"This table provides information that classifies usual residents aged 16 to 74 by economic activity, for United Kingdom as at census day, 27 March 2011. It also provides additional information about the unemployed population (including full-time students), with estimates of the number of long-term unemployed, those who have never worked, and the classification of unemployed by key age groups.
+
+The category 'Carried out voluntary work: Aged 16-74 years' only applicable in Northern Ireland is not included in this table.",oa
+42,NM_1513_1,c2011ks603uk,"This table provides information that classifies usual residents aged 16 to 74 by economic activity, for United Kingdom as at census day, 27 March 2011. It also provides additional information about the unemployed population (including full-time students), with estimates of the number of long-term unemployed, those who have never worked, and the classification of unemployed by key age groups.
+
+The category 'Carried out voluntary work: Aged 16-74 years' only applicable in Northern Ireland is not included in this table.",oa
+43,NM_1514_1,c2011ks604uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the number of hours worked, for United Kingdom as at census day, 27 March 2011.
+
+In Scotland this table is numbered KS604SCa.",oa
+44,NM_1515_1,c2011ks605uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the industry in which they work, for United Kingdom as at census day, 27 March 2011.",oa
+45,NM_1516_1,c2011ks606uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the industry in which they work, for United Kingdom as at census day, 27 March 2011.",oa
+46,NM_1517_1,c2011ks607uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the industry in which they work, for United Kingdom as at census day, 27 March 2011.",oa
+47,NM_1518_1,c2011ks608uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by occupation, for United Kingdom as at census day, 27 March 2011.",oa
+48,NM_1519_1,c2011ks609uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by occupation, for United Kingdom as at census day, 27 March 2011.",oa
+49,NM_1520_1,c2011ks610uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by occupation, for United Kingdom as at census day, 27 March 2011.",oa
+50,NM_1521_1,c2011ks611uk,"This table provides information about the National Statistics Socio-economic Classification (NS-SeC) of usual residents aged 16 to 74, for United Kingdom as at census day, 27 March 2011.",oa
+51,NM_1522_1,c2011ks612uk,"This table provides information about the National Statistics Socio-economic Classification (NS-SeC) of usual residents aged 16 to 74, for United Kingdom as at census day, 27 March 2011.",oa
+52,NM_1523_1,c2011ks613uk,"This table provides information about the National Statistics Socio-economic Classification (NS-SeC) of usual residents aged 16 to 74, for United Kingdom as at census day, 27 March 2011.",oa
