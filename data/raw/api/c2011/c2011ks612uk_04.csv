@@ -1,0 +1,815 @@
+,DATE,GEOGRAPHY_CODE,GEOGRAPHY_TYPE,GEOGRAPHY_TYPECODE,CELL_NAME,OBS_VALUE
+0,2011,W02000308,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,85
+1,2011,W02000308,2011 super output areas - middle layer,297,L15 Full-time students,199
+2,2011,W02000309,2011 super output areas - middle layer,297,All categories: NS-SeC,2467
+3,2011,W02000309,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",218
+4,2011,W02000309,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,68
+5,2011,W02000309,2011 super output areas - middle layer,297,1.2 Higher professional occupations,150
+6,2011,W02000309,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",383
+7,2011,W02000309,2011 super output areas - middle layer,297,3. Intermediate occupations,173
+8,2011,W02000309,2011 super output areas - middle layer,297,4. Small employers and own account workers,315
+9,2011,W02000309,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,366
+10,2011,W02000309,2011 super output areas - middle layer,297,6. Semi-routine occupations,271
+11,2011,W02000309,2011 super output areas - middle layer,297,7. Routine occupations,468
+12,2011,W02000309,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,124
+13,2011,W02000309,2011 super output areas - middle layer,297,L14.1 Never worked,72
+14,2011,W02000309,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,52
+15,2011,W02000309,2011 super output areas - middle layer,297,L15 Full-time students,149
+16,2011,W02000310,2011 super output areas - middle layer,297,All categories: NS-SeC,1926
+17,2011,W02000310,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",274
+18,2011,W02000310,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,57
+19,2011,W02000310,2011 super output areas - middle layer,297,1.2 Higher professional occupations,217
+20,2011,W02000310,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",373
+21,2011,W02000310,2011 super output areas - middle layer,297,3. Intermediate occupations,115
+22,2011,W02000310,2011 super output areas - middle layer,297,4. Small employers and own account workers,233
+23,2011,W02000310,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,201
+24,2011,W02000310,2011 super output areas - middle layer,297,6. Semi-routine occupations,194
+25,2011,W02000310,2011 super output areas - middle layer,297,7. Routine occupations,265
+26,2011,W02000310,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,142
+27,2011,W02000310,2011 super output areas - middle layer,297,L14.1 Never worked,74
+28,2011,W02000310,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,68
+29,2011,W02000310,2011 super output areas - middle layer,297,L15 Full-time students,129
+30,2011,W02000311,2011 super output areas - middle layer,297,All categories: NS-SeC,3362
+31,2011,W02000311,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",262
+32,2011,W02000311,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,65
+33,2011,W02000311,2011 super output areas - middle layer,297,1.2 Higher professional occupations,197
+34,2011,W02000311,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",513
+35,2011,W02000311,2011 super output areas - middle layer,297,3. Intermediate occupations,269
+36,2011,W02000311,2011 super output areas - middle layer,297,4. Small employers and own account workers,346
+37,2011,W02000311,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,453
+38,2011,W02000311,2011 super output areas - middle layer,297,6. Semi-routine occupations,463
+39,2011,W02000311,2011 super output areas - middle layer,297,7. Routine occupations,599
+40,2011,W02000311,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,263
+41,2011,W02000311,2011 super output areas - middle layer,297,L14.1 Never worked,153
+42,2011,W02000311,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,110
+43,2011,W02000311,2011 super output areas - middle layer,297,L15 Full-time students,194
+44,2011,W02000312,2011 super output areas - middle layer,297,All categories: NS-SeC,2642
+45,2011,W02000312,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",245
+46,2011,W02000312,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,44
+47,2011,W02000312,2011 super output areas - middle layer,297,1.2 Higher professional occupations,201
+48,2011,W02000312,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",474
+49,2011,W02000312,2011 super output areas - middle layer,297,3. Intermediate occupations,233
+50,2011,W02000312,2011 super output areas - middle layer,297,4. Small employers and own account workers,299
+51,2011,W02000312,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,338
+52,2011,W02000312,2011 super output areas - middle layer,297,6. Semi-routine occupations,313
+53,2011,W02000312,2011 super output areas - middle layer,297,7. Routine occupations,436
+54,2011,W02000312,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,150
+55,2011,W02000312,2011 super output areas - middle layer,297,L14.1 Never worked,84
+56,2011,W02000312,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,66
+57,2011,W02000312,2011 super output areas - middle layer,297,L15 Full-time students,154
+58,2011,W02000313,2011 super output areas - middle layer,297,All categories: NS-SeC,3698
+59,2011,W02000313,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",603
+60,2011,W02000313,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,130
+61,2011,W02000313,2011 super output areas - middle layer,297,1.2 Higher professional occupations,473
+62,2011,W02000313,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",891
+63,2011,W02000313,2011 super output areas - middle layer,297,3. Intermediate occupations,383
+64,2011,W02000313,2011 super output areas - middle layer,297,4. Small employers and own account workers,378
+65,2011,W02000313,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,434
+66,2011,W02000313,2011 super output areas - middle layer,297,6. Semi-routine occupations,339
+67,2011,W02000313,2011 super output areas - middle layer,297,7. Routine occupations,343
+68,2011,W02000313,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,117
+69,2011,W02000313,2011 super output areas - middle layer,297,L14.1 Never worked,70
+70,2011,W02000313,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,47
+71,2011,W02000313,2011 super output areas - middle layer,297,L15 Full-time students,210
+72,2011,W02000314,2011 super output areas - middle layer,297,All categories: NS-SeC,2571
+73,2011,W02000314,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",153
+74,2011,W02000314,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,55
+75,2011,W02000314,2011 super output areas - middle layer,297,1.2 Higher professional occupations,98
+76,2011,W02000314,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",337
+77,2011,W02000314,2011 super output areas - middle layer,297,3. Intermediate occupations,149
+78,2011,W02000314,2011 super output areas - middle layer,297,4. Small employers and own account workers,235
+79,2011,W02000314,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,382
+80,2011,W02000314,2011 super output areas - middle layer,297,6. Semi-routine occupations,416
+81,2011,W02000314,2011 super output areas - middle layer,297,7. Routine occupations,574
+82,2011,W02000314,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,183
+83,2011,W02000314,2011 super output areas - middle layer,297,L14.1 Never worked,82
+84,2011,W02000314,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,101
+85,2011,W02000314,2011 super output areas - middle layer,297,L15 Full-time students,142
+86,2011,W02000315,2011 super output areas - middle layer,297,All categories: NS-SeC,2028
+87,2011,W02000315,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",128
+88,2011,W02000315,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,54
+89,2011,W02000315,2011 super output areas - middle layer,297,1.2 Higher professional occupations,74
+90,2011,W02000315,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",270
+91,2011,W02000315,2011 super output areas - middle layer,297,3. Intermediate occupations,107
+92,2011,W02000315,2011 super output areas - middle layer,297,4. Small employers and own account workers,197
+93,2011,W02000315,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,265
+94,2011,W02000315,2011 super output areas - middle layer,297,6. Semi-routine occupations,299
+95,2011,W02000315,2011 super output areas - middle layer,297,7. Routine occupations,496
+96,2011,W02000315,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,147
+97,2011,W02000315,2011 super output areas - middle layer,297,L14.1 Never worked,77
+98,2011,W02000315,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,70
+99,2011,W02000315,2011 super output areas - middle layer,297,L15 Full-time students,119
+100,2011,W02000316,2011 super output areas - middle layer,297,All categories: NS-SeC,2595
+101,2011,W02000316,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",129
+102,2011,W02000316,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,45
+103,2011,W02000316,2011 super output areas - middle layer,297,1.2 Higher professional occupations,84
+104,2011,W02000316,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",289
+105,2011,W02000316,2011 super output areas - middle layer,297,3. Intermediate occupations,127
+106,2011,W02000316,2011 super output areas - middle layer,297,4. Small employers and own account workers,281
+107,2011,W02000316,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,371
+108,2011,W02000316,2011 super output areas - middle layer,297,6. Semi-routine occupations,401
+109,2011,W02000316,2011 super output areas - middle layer,297,7. Routine occupations,623
+110,2011,W02000316,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,224
+111,2011,W02000316,2011 super output areas - middle layer,297,L14.1 Never worked,141
+112,2011,W02000316,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,83
+113,2011,W02000316,2011 super output areas - middle layer,297,L15 Full-time students,150
+114,2011,W02000317,2011 super output areas - middle layer,297,All categories: NS-SeC,2828
+115,2011,W02000317,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",141
+116,2011,W02000317,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,44
+117,2011,W02000317,2011 super output areas - middle layer,297,1.2 Higher professional occupations,97
+118,2011,W02000317,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",370
+119,2011,W02000317,2011 super output areas - middle layer,297,3. Intermediate occupations,157
+120,2011,W02000317,2011 super output areas - middle layer,297,4. Small employers and own account workers,209
+121,2011,W02000317,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,420
+122,2011,W02000317,2011 super output areas - middle layer,297,6. Semi-routine occupations,474
+123,2011,W02000317,2011 super output areas - middle layer,297,7. Routine occupations,646
+124,2011,W02000317,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,204
+125,2011,W02000317,2011 super output areas - middle layer,297,L14.1 Never worked,91
+126,2011,W02000317,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,113
+127,2011,W02000317,2011 super output areas - middle layer,297,L15 Full-time students,207
+128,2011,W02000318,2011 super output areas - middle layer,297,All categories: NS-SeC,3485
+129,2011,W02000318,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",185
+130,2011,W02000318,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,69
+131,2011,W02000318,2011 super output areas - middle layer,297,1.2 Higher professional occupations,116
+132,2011,W02000318,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",418
+133,2011,W02000318,2011 super output areas - middle layer,297,3. Intermediate occupations,170
+134,2011,W02000318,2011 super output areas - middle layer,297,4. Small employers and own account workers,369
+135,2011,W02000318,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,438
+136,2011,W02000318,2011 super output areas - middle layer,297,6. Semi-routine occupations,519
+137,2011,W02000318,2011 super output areas - middle layer,297,7. Routine occupations,846
+138,2011,W02000318,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,336
+139,2011,W02000318,2011 super output areas - middle layer,297,L14.1 Never worked,194
+140,2011,W02000318,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,142
+141,2011,W02000318,2011 super output areas - middle layer,297,L15 Full-time students,204
+142,2011,W02000319,2011 super output areas - middle layer,297,All categories: NS-SeC,2942
+143,2011,W02000319,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",161
+144,2011,W02000319,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,57
+145,2011,W02000319,2011 super output areas - middle layer,297,1.2 Higher professional occupations,104
+146,2011,W02000319,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",357
+147,2011,W02000319,2011 super output areas - middle layer,297,3. Intermediate occupations,155
+148,2011,W02000319,2011 super output areas - middle layer,297,4. Small employers and own account workers,280
+149,2011,W02000319,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,446
+150,2011,W02000319,2011 super output areas - middle layer,297,6. Semi-routine occupations,466
+151,2011,W02000319,2011 super output areas - middle layer,297,7. Routine occupations,674
+152,2011,W02000319,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,261
+153,2011,W02000319,2011 super output areas - middle layer,297,L14.1 Never worked,148
+154,2011,W02000319,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,113
+155,2011,W02000319,2011 super output areas - middle layer,297,L15 Full-time students,142
+156,2011,W02000320,2011 super output areas - middle layer,297,All categories: NS-SeC,3210
+157,2011,W02000320,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",199
+158,2011,W02000320,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,52
+159,2011,W02000320,2011 super output areas - middle layer,297,1.2 Higher professional occupations,147
+160,2011,W02000320,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",393
+161,2011,W02000320,2011 super output areas - middle layer,297,3. Intermediate occupations,164
+162,2011,W02000320,2011 super output areas - middle layer,297,4. Small employers and own account workers,310
+163,2011,W02000320,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,482
+164,2011,W02000320,2011 super output areas - middle layer,297,6. Semi-routine occupations,517
+165,2011,W02000320,2011 super output areas - middle layer,297,7. Routine occupations,702
+166,2011,W02000320,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,247
+167,2011,W02000320,2011 super output areas - middle layer,297,L14.1 Never worked,130
+168,2011,W02000320,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,117
+169,2011,W02000320,2011 super output areas - middle layer,297,L15 Full-time students,196
+170,2011,W02000321,2011 super output areas - middle layer,297,All categories: NS-SeC,3331
+171,2011,W02000321,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",194
+172,2011,W02000321,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,58
+173,2011,W02000321,2011 super output areas - middle layer,297,1.2 Higher professional occupations,136
+174,2011,W02000321,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",396
+175,2011,W02000321,2011 super output areas - middle layer,297,3. Intermediate occupations,207
+176,2011,W02000321,2011 super output areas - middle layer,297,4. Small employers and own account workers,278
+177,2011,W02000321,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,434
+178,2011,W02000321,2011 super output areas - middle layer,297,6. Semi-routine occupations,542
+179,2011,W02000321,2011 super output areas - middle layer,297,7. Routine occupations,840
+180,2011,W02000321,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,246
+181,2011,W02000321,2011 super output areas - middle layer,297,L14.1 Never worked,126
+182,2011,W02000321,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,120
+183,2011,W02000321,2011 super output areas - middle layer,297,L15 Full-time students,194
+184,2011,W02000322,2011 super output areas - middle layer,297,All categories: NS-SeC,2783
+185,2011,W02000322,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",144
+186,2011,W02000322,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,47
+187,2011,W02000322,2011 super output areas - middle layer,297,1.2 Higher professional occupations,97
+188,2011,W02000322,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",290
+189,2011,W02000322,2011 super output areas - middle layer,297,3. Intermediate occupations,143
+190,2011,W02000322,2011 super output areas - middle layer,297,4. Small employers and own account workers,262
+191,2011,W02000322,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,375
+192,2011,W02000322,2011 super output areas - middle layer,297,6. Semi-routine occupations,498
+193,2011,W02000322,2011 super output areas - middle layer,297,7. Routine occupations,718
+194,2011,W02000322,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,206
+195,2011,W02000322,2011 super output areas - middle layer,297,L14.1 Never worked,104
+196,2011,W02000322,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,102
+197,2011,W02000322,2011 super output areas - middle layer,297,L15 Full-time students,147
+198,2011,W02000323,2011 super output areas - middle layer,297,All categories: NS-SeC,2195
+199,2011,W02000323,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",155
+200,2011,W02000323,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,46
+201,2011,W02000323,2011 super output areas - middle layer,297,1.2 Higher professional occupations,109
+202,2011,W02000323,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",264
+203,2011,W02000323,2011 super output areas - middle layer,297,3. Intermediate occupations,114
+204,2011,W02000323,2011 super output areas - middle layer,297,4. Small employers and own account workers,208
+205,2011,W02000323,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,322
+206,2011,W02000323,2011 super output areas - middle layer,297,6. Semi-routine occupations,356
+207,2011,W02000323,2011 super output areas - middle layer,297,7. Routine occupations,489
+208,2011,W02000323,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,170
+209,2011,W02000323,2011 super output areas - middle layer,297,L14.1 Never worked,103
+210,2011,W02000323,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,67
+211,2011,W02000323,2011 super output areas - middle layer,297,L15 Full-time students,117
+212,2011,W02000324,2011 super output areas - middle layer,297,All categories: NS-SeC,2500
+213,2011,W02000324,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",181
+214,2011,W02000324,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,41
+215,2011,W02000324,2011 super output areas - middle layer,297,1.2 Higher professional occupations,140
+216,2011,W02000324,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",300
+217,2011,W02000324,2011 super output areas - middle layer,297,3. Intermediate occupations,119
+218,2011,W02000324,2011 super output areas - middle layer,297,4. Small employers and own account workers,282
+219,2011,W02000324,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,377
+220,2011,W02000324,2011 super output areas - middle layer,297,6. Semi-routine occupations,347
+221,2011,W02000324,2011 super output areas - middle layer,297,7. Routine occupations,577
+222,2011,W02000324,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,172
+223,2011,W02000324,2011 super output areas - middle layer,297,L14.1 Never worked,98
+224,2011,W02000324,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,74
+225,2011,W02000324,2011 super output areas - middle layer,297,L15 Full-time students,145
+226,2011,W02000325,2011 super output areas - middle layer,297,All categories: NS-SeC,2596
+227,2011,W02000325,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",127
+228,2011,W02000325,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,40
+229,2011,W02000325,2011 super output areas - middle layer,297,1.2 Higher professional occupations,87
+230,2011,W02000325,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",312
+231,2011,W02000325,2011 super output areas - middle layer,297,3. Intermediate occupations,113
+232,2011,W02000325,2011 super output areas - middle layer,297,4. Small employers and own account workers,222
+233,2011,W02000325,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,350
+234,2011,W02000325,2011 super output areas - middle layer,297,6. Semi-routine occupations,437
+235,2011,W02000325,2011 super output areas - middle layer,297,7. Routine occupations,684
+236,2011,W02000325,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,209
+237,2011,W02000325,2011 super output areas - middle layer,297,L14.1 Never worked,126
+238,2011,W02000325,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,83
+239,2011,W02000325,2011 super output areas - middle layer,297,L15 Full-time students,142
+240,2011,W02000326,2011 super output areas - middle layer,297,All categories: NS-SeC,3317
+241,2011,W02000326,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",212
+242,2011,W02000326,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,62
+243,2011,W02000326,2011 super output areas - middle layer,297,1.2 Higher professional occupations,150
+244,2011,W02000326,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",507
+245,2011,W02000326,2011 super output areas - middle layer,297,3. Intermediate occupations,224
+246,2011,W02000326,2011 super output areas - middle layer,297,4. Small employers and own account workers,384
+247,2011,W02000326,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,439
+248,2011,W02000326,2011 super output areas - middle layer,297,6. Semi-routine occupations,493
+249,2011,W02000326,2011 super output areas - middle layer,297,7. Routine occupations,687
+250,2011,W02000326,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,191
+251,2011,W02000326,2011 super output areas - middle layer,297,L14.1 Never worked,116
+252,2011,W02000326,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,75
+253,2011,W02000326,2011 super output areas - middle layer,297,L15 Full-time students,180
+254,2011,W02000327,2011 super output areas - middle layer,297,All categories: NS-SeC,2170
+255,2011,W02000327,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",303
+256,2011,W02000327,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,90
+257,2011,W02000327,2011 super output areas - middle layer,297,1.2 Higher professional occupations,213
+258,2011,W02000327,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",488
+259,2011,W02000327,2011 super output areas - middle layer,297,3. Intermediate occupations,216
+260,2011,W02000327,2011 super output areas - middle layer,297,4. Small employers and own account workers,199
+261,2011,W02000327,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,268
+262,2011,W02000327,2011 super output areas - middle layer,297,6. Semi-routine occupations,218
+263,2011,W02000327,2011 super output areas - middle layer,297,7. Routine occupations,288
+264,2011,W02000327,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,52
+265,2011,W02000327,2011 super output areas - middle layer,297,L14.1 Never worked,27
+266,2011,W02000327,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,25
+267,2011,W02000327,2011 super output areas - middle layer,297,L15 Full-time students,138
+268,2011,W02000328,2011 super output areas - middle layer,297,All categories: NS-SeC,2628
+269,2011,W02000328,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",261
+270,2011,W02000328,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,68
+271,2011,W02000328,2011 super output areas - middle layer,297,1.2 Higher professional occupations,193
+272,2011,W02000328,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",476
+273,2011,W02000328,2011 super output areas - middle layer,297,3. Intermediate occupations,197
+274,2011,W02000328,2011 super output areas - middle layer,297,4. Small employers and own account workers,248
+275,2011,W02000328,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,390
+276,2011,W02000328,2011 super output areas - middle layer,297,6. Semi-routine occupations,390
+277,2011,W02000328,2011 super output areas - middle layer,297,7. Routine occupations,430
+278,2011,W02000328,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,99
+279,2011,W02000328,2011 super output areas - middle layer,297,L14.1 Never worked,55
+280,2011,W02000328,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,44
+281,2011,W02000328,2011 super output areas - middle layer,297,L15 Full-time students,137
+282,2011,W02000329,2011 super output areas - middle layer,297,All categories: NS-SeC,2740
+283,2011,W02000329,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",189
+284,2011,W02000329,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,47
+285,2011,W02000329,2011 super output areas - middle layer,297,1.2 Higher professional occupations,142
+286,2011,W02000329,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",410
+287,2011,W02000329,2011 super output areas - middle layer,297,3. Intermediate occupations,194
+288,2011,W02000329,2011 super output areas - middle layer,297,4. Small employers and own account workers,289
+289,2011,W02000329,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,376
+290,2011,W02000329,2011 super output areas - middle layer,297,6. Semi-routine occupations,429
+291,2011,W02000329,2011 super output areas - middle layer,297,7. Routine occupations,550
+292,2011,W02000329,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,133
+293,2011,W02000329,2011 super output areas - middle layer,297,L14.1 Never worked,74
+294,2011,W02000329,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,59
+295,2011,W02000329,2011 super output areas - middle layer,297,L15 Full-time students,170
+296,2011,W02000330,2011 super output areas - middle layer,297,All categories: NS-SeC,2421
+297,2011,W02000330,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",275
+298,2011,W02000330,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,79
+299,2011,W02000330,2011 super output areas - middle layer,297,1.2 Higher professional occupations,196
+300,2011,W02000330,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",458
+301,2011,W02000330,2011 super output areas - middle layer,297,3. Intermediate occupations,202
+302,2011,W02000330,2011 super output areas - middle layer,297,4. Small employers and own account workers,250
+303,2011,W02000330,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,314
+304,2011,W02000330,2011 super output areas - middle layer,297,6. Semi-routine occupations,316
+305,2011,W02000330,2011 super output areas - middle layer,297,7. Routine occupations,375
+306,2011,W02000330,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,95
+307,2011,W02000330,2011 super output areas - middle layer,297,L14.1 Never worked,49
+308,2011,W02000330,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,46
+309,2011,W02000330,2011 super output areas - middle layer,297,L15 Full-time students,136
+310,2011,W02000331,2011 super output areas - middle layer,297,All categories: NS-SeC,2210
+311,2011,W02000331,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",92
+312,2011,W02000331,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,28
+313,2011,W02000331,2011 super output areas - middle layer,297,1.2 Higher professional occupations,64
+314,2011,W02000331,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",235
+315,2011,W02000331,2011 super output areas - middle layer,297,3. Intermediate occupations,115
+316,2011,W02000331,2011 super output areas - middle layer,297,4. Small employers and own account workers,203
+317,2011,W02000331,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,324
+318,2011,W02000331,2011 super output areas - middle layer,297,6. Semi-routine occupations,406
+319,2011,W02000331,2011 super output areas - middle layer,297,7. Routine occupations,523
+320,2011,W02000331,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,155
+321,2011,W02000331,2011 super output areas - middle layer,297,L14.1 Never worked,88
+322,2011,W02000331,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,67
+323,2011,W02000331,2011 super output areas - middle layer,297,L15 Full-time students,157
+324,2011,W02000332,2011 super output areas - middle layer,297,All categories: NS-SeC,2415
+325,2011,W02000332,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",126
+326,2011,W02000332,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,36
+327,2011,W02000332,2011 super output areas - middle layer,297,1.2 Higher professional occupations,90
+328,2011,W02000332,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",307
+329,2011,W02000332,2011 super output areas - middle layer,297,3. Intermediate occupations,172
+330,2011,W02000332,2011 super output areas - middle layer,297,4. Small employers and own account workers,221
+331,2011,W02000332,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,298
+332,2011,W02000332,2011 super output areas - middle layer,297,6. Semi-routine occupations,399
+333,2011,W02000332,2011 super output areas - middle layer,297,7. Routine occupations,608
+334,2011,W02000332,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,157
+335,2011,W02000332,2011 super output areas - middle layer,297,L14.1 Never worked,85
+336,2011,W02000332,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,72
+337,2011,W02000332,2011 super output areas - middle layer,297,L15 Full-time students,127
+338,2011,W02000333,2011 super output areas - middle layer,297,All categories: NS-SeC,2355
+339,2011,W02000333,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",242
+340,2011,W02000333,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,65
+341,2011,W02000333,2011 super output areas - middle layer,297,1.2 Higher professional occupations,177
+342,2011,W02000333,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",431
+343,2011,W02000333,2011 super output areas - middle layer,297,3. Intermediate occupations,183
+344,2011,W02000333,2011 super output areas - middle layer,297,4. Small employers and own account workers,237
+345,2011,W02000333,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,278
+346,2011,W02000333,2011 super output areas - middle layer,297,6. Semi-routine occupations,298
+347,2011,W02000333,2011 super output areas - middle layer,297,7. Routine occupations,381
+348,2011,W02000333,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,98
+349,2011,W02000333,2011 super output areas - middle layer,297,L14.1 Never worked,55
+350,2011,W02000333,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,43
+351,2011,W02000333,2011 super output areas - middle layer,297,L15 Full-time students,207
+352,2011,W02000334,2011 super output areas - middle layer,297,All categories: NS-SeC,2552
+353,2011,W02000334,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",366
+354,2011,W02000334,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,86
+355,2011,W02000334,2011 super output areas - middle layer,297,1.2 Higher professional occupations,280
+356,2011,W02000334,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",555
+357,2011,W02000334,2011 super output areas - middle layer,297,3. Intermediate occupations,202
+358,2011,W02000334,2011 super output areas - middle layer,297,4. Small employers and own account workers,249
+359,2011,W02000334,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,300
+360,2011,W02000334,2011 super output areas - middle layer,297,6. Semi-routine occupations,297
+361,2011,W02000334,2011 super output areas - middle layer,297,7. Routine occupations,354
+362,2011,W02000334,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,73
+363,2011,W02000334,2011 super output areas - middle layer,297,L14.1 Never worked,33
+364,2011,W02000334,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,40
+365,2011,W02000334,2011 super output areas - middle layer,297,L15 Full-time students,156
+366,2011,W02000335,2011 super output areas - middle layer,297,All categories: NS-SeC,2386
+367,2011,W02000335,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",372
+368,2011,W02000335,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,100
+369,2011,W02000335,2011 super output areas - middle layer,297,1.2 Higher professional occupations,272
+370,2011,W02000335,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",507
+371,2011,W02000335,2011 super output areas - middle layer,297,3. Intermediate occupations,157
+372,2011,W02000335,2011 super output areas - middle layer,297,4. Small employers and own account workers,275
+373,2011,W02000335,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,237
+374,2011,W02000335,2011 super output areas - middle layer,297,6. Semi-routine occupations,267
+375,2011,W02000335,2011 super output areas - middle layer,297,7. Routine occupations,305
+376,2011,W02000335,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,83
+377,2011,W02000335,2011 super output areas - middle layer,297,L14.1 Never worked,47
+378,2011,W02000335,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,36
+379,2011,W02000335,2011 super output areas - middle layer,297,L15 Full-time students,183
+380,2011,W02000336,2011 super output areas - middle layer,297,All categories: NS-SeC,2895
+381,2011,W02000336,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",514
+382,2011,W02000336,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,107
+383,2011,W02000336,2011 super output areas - middle layer,297,1.2 Higher professional occupations,407
+384,2011,W02000336,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",626
+385,2011,W02000336,2011 super output areas - middle layer,297,3. Intermediate occupations,149
+386,2011,W02000336,2011 super output areas - middle layer,297,4. Small employers and own account workers,576
+387,2011,W02000336,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,234
+388,2011,W02000336,2011 super output areas - middle layer,297,6. Semi-routine occupations,256
+389,2011,W02000336,2011 super output areas - middle layer,297,7. Routine occupations,267
+390,2011,W02000336,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,115
+391,2011,W02000336,2011 super output areas - middle layer,297,L14.1 Never worked,72
+392,2011,W02000336,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,43
+393,2011,W02000336,2011 super output areas - middle layer,297,L15 Full-time students,158
+394,2011,W02000337,2011 super output areas - middle layer,297,All categories: NS-SeC,2626
+395,2011,W02000337,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",259
+396,2011,W02000337,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,56
+397,2011,W02000337,2011 super output areas - middle layer,297,1.2 Higher professional occupations,203
+398,2011,W02000337,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",436
+399,2011,W02000337,2011 super output areas - middle layer,297,3. Intermediate occupations,162
+400,2011,W02000337,2011 super output areas - middle layer,297,4. Small employers and own account workers,319
+401,2011,W02000337,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,291
+402,2011,W02000337,2011 super output areas - middle layer,297,6. Semi-routine occupations,380
+403,2011,W02000337,2011 super output areas - middle layer,297,7. Routine occupations,462
+404,2011,W02000337,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,149
+405,2011,W02000337,2011 super output areas - middle layer,297,L14.1 Never worked,93
+406,2011,W02000337,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,56
+407,2011,W02000337,2011 super output areas - middle layer,297,L15 Full-time students,168
+408,2011,W02000338,2011 super output areas - middle layer,297,All categories: NS-SeC,2690
+409,2011,W02000338,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",458
+410,2011,W02000338,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,128
+411,2011,W02000338,2011 super output areas - middle layer,297,1.2 Higher professional occupations,330
+412,2011,W02000338,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",610
+413,2011,W02000338,2011 super output areas - middle layer,297,3. Intermediate occupations,144
+414,2011,W02000338,2011 super output areas - middle layer,297,4. Small employers and own account workers,386
+415,2011,W02000338,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,265
+416,2011,W02000338,2011 super output areas - middle layer,297,6. Semi-routine occupations,254
+417,2011,W02000338,2011 super output areas - middle layer,297,7. Routine occupations,301
+418,2011,W02000338,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,125
+419,2011,W02000338,2011 super output areas - middle layer,297,L14.1 Never worked,71
+420,2011,W02000338,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,54
+421,2011,W02000338,2011 super output areas - middle layer,297,L15 Full-time students,147
+422,2011,W02000339,2011 super output areas - middle layer,297,All categories: NS-SeC,3552
+423,2011,W02000339,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",576
+424,2011,W02000339,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,185
+425,2011,W02000339,2011 super output areas - middle layer,297,1.2 Higher professional occupations,391
+426,2011,W02000339,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",744
+427,2011,W02000339,2011 super output areas - middle layer,297,3. Intermediate occupations,134
+428,2011,W02000339,2011 super output areas - middle layer,297,4. Small employers and own account workers,533
+429,2011,W02000339,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,307
+430,2011,W02000339,2011 super output areas - middle layer,297,6. Semi-routine occupations,369
+431,2011,W02000339,2011 super output areas - middle layer,297,7. Routine occupations,432
+432,2011,W02000339,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,129
+433,2011,W02000339,2011 super output areas - middle layer,297,L14.1 Never worked,72
+434,2011,W02000339,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,57
+435,2011,W02000339,2011 super output areas - middle layer,297,L15 Full-time students,328
+436,2011,W02000340,2011 super output areas - middle layer,297,All categories: NS-SeC,2694
+437,2011,W02000340,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",497
+438,2011,W02000340,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,122
+439,2011,W02000340,2011 super output areas - middle layer,297,1.2 Higher professional occupations,375
+440,2011,W02000340,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",565
+441,2011,W02000340,2011 super output areas - middle layer,297,3. Intermediate occupations,104
+442,2011,W02000340,2011 super output areas - middle layer,297,4. Small employers and own account workers,779
+443,2011,W02000340,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,188
+444,2011,W02000340,2011 super output areas - middle layer,297,6. Semi-routine occupations,168
+445,2011,W02000340,2011 super output areas - middle layer,297,7. Routine occupations,184
+446,2011,W02000340,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,78
+447,2011,W02000340,2011 super output areas - middle layer,297,L14.1 Never worked,55
+448,2011,W02000340,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,23
+449,2011,W02000340,2011 super output areas - middle layer,297,L15 Full-time students,131
+450,2011,W02000341,2011 super output areas - middle layer,297,All categories: NS-SeC,3260
+451,2011,W02000341,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",663
+452,2011,W02000341,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,164
+453,2011,W02000341,2011 super output areas - middle layer,297,1.2 Higher professional occupations,499
+454,2011,W02000341,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",661
+455,2011,W02000341,2011 super output areas - middle layer,297,3. Intermediate occupations,194
+456,2011,W02000341,2011 super output areas - middle layer,297,4. Small employers and own account workers,622
+457,2011,W02000341,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,257
+458,2011,W02000341,2011 super output areas - middle layer,297,6. Semi-routine occupations,234
+459,2011,W02000341,2011 super output areas - middle layer,297,7. Routine occupations,318
+460,2011,W02000341,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,114
+461,2011,W02000341,2011 super output areas - middle layer,297,L14.1 Never worked,82
+462,2011,W02000341,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,32
+463,2011,W02000341,2011 super output areas - middle layer,297,L15 Full-time students,197
+464,2011,W02000342,2011 super output areas - middle layer,297,All categories: NS-SeC,3406
+465,2011,W02000342,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",989
+466,2011,W02000342,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,225
+467,2011,W02000342,2011 super output areas - middle layer,297,1.2 Higher professional occupations,764
+468,2011,W02000342,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",883
+469,2011,W02000342,2011 super output areas - middle layer,297,3. Intermediate occupations,156
+470,2011,W02000342,2011 super output areas - middle layer,297,4. Small employers and own account workers,560
+471,2011,W02000342,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,206
+472,2011,W02000342,2011 super output areas - middle layer,297,6. Semi-routine occupations,139
+473,2011,W02000342,2011 super output areas - middle layer,297,7. Routine occupations,217
+474,2011,W02000342,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,68
+475,2011,W02000342,2011 super output areas - middle layer,297,L14.1 Never worked,43
+476,2011,W02000342,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,25
+477,2011,W02000342,2011 super output areas - middle layer,297,L15 Full-time students,188
+478,2011,W02000343,2011 super output areas - middle layer,297,All categories: NS-SeC,3021
+479,2011,W02000343,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",323
+480,2011,W02000343,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,77
+481,2011,W02000343,2011 super output areas - middle layer,297,1.2 Higher professional occupations,246
+482,2011,W02000343,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",528
+483,2011,W02000343,2011 super output areas - middle layer,297,3. Intermediate occupations,161
+484,2011,W02000343,2011 super output areas - middle layer,297,4. Small employers and own account workers,321
+485,2011,W02000343,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,361
+486,2011,W02000343,2011 super output areas - middle layer,297,6. Semi-routine occupations,349
+487,2011,W02000343,2011 super output areas - middle layer,297,7. Routine occupations,681
+488,2011,W02000343,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,117
+489,2011,W02000343,2011 super output areas - middle layer,297,L14.1 Never worked,62
+490,2011,W02000343,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,55
+491,2011,W02000343,2011 super output areas - middle layer,297,L15 Full-time students,180
+492,2011,W02000344,2011 super output areas - middle layer,297,All categories: NS-SeC,2889
+493,2011,W02000344,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",638
+494,2011,W02000344,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,163
+495,2011,W02000344,2011 super output areas - middle layer,297,1.2 Higher professional occupations,475
+496,2011,W02000344,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",682
+497,2011,W02000344,2011 super output areas - middle layer,297,3. Intermediate occupations,141
+498,2011,W02000344,2011 super output areas - middle layer,297,4. Small employers and own account workers,408
+499,2011,W02000344,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,300
+500,2011,W02000344,2011 super output areas - middle layer,297,6. Semi-routine occupations,166
+501,2011,W02000344,2011 super output areas - middle layer,297,7. Routine occupations,282
+502,2011,W02000344,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,55
+503,2011,W02000344,2011 super output areas - middle layer,297,L14.1 Never worked,29
+504,2011,W02000344,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,26
+505,2011,W02000344,2011 super output areas - middle layer,297,L15 Full-time students,217
+506,2011,W02000345,2011 super output areas - middle layer,297,All categories: NS-SeC,2975
+507,2011,W02000345,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",275
+508,2011,W02000345,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,90
+509,2011,W02000345,2011 super output areas - middle layer,297,1.2 Higher professional occupations,185
+510,2011,W02000345,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",427
+511,2011,W02000345,2011 super output areas - middle layer,297,3. Intermediate occupations,177
+512,2011,W02000345,2011 super output areas - middle layer,297,4. Small employers and own account workers,275
+513,2011,W02000345,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,467
+514,2011,W02000345,2011 super output areas - middle layer,297,6. Semi-routine occupations,370
+515,2011,W02000345,2011 super output areas - middle layer,297,7. Routine occupations,672
+516,2011,W02000345,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,139
+517,2011,W02000345,2011 super output areas - middle layer,297,L14.1 Never worked,61
+518,2011,W02000345,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,78
+519,2011,W02000345,2011 super output areas - middle layer,297,L15 Full-time students,173
+520,2011,W02000346,2011 super output areas - middle layer,297,All categories: NS-SeC,2863
+521,2011,W02000346,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",541
+522,2011,W02000346,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,144
+523,2011,W02000346,2011 super output areas - middle layer,297,1.2 Higher professional occupations,397
+524,2011,W02000346,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",700
+525,2011,W02000346,2011 super output areas - middle layer,297,3. Intermediate occupations,205
+526,2011,W02000346,2011 super output areas - middle layer,297,4. Small employers and own account workers,299
+527,2011,W02000346,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,314
+528,2011,W02000346,2011 super output areas - middle layer,297,6. Semi-routine occupations,188
+529,2011,W02000346,2011 super output areas - middle layer,297,7. Routine occupations,363
+530,2011,W02000346,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,60
+531,2011,W02000346,2011 super output areas - middle layer,297,L14.1 Never worked,37
+532,2011,W02000346,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,23
+533,2011,W02000346,2011 super output areas - middle layer,297,L15 Full-time students,193
+534,2011,W02000347,2011 super output areas - middle layer,297,All categories: NS-SeC,2912
+535,2011,W02000347,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",536
+536,2011,W02000347,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,134
+537,2011,W02000347,2011 super output areas - middle layer,297,1.2 Higher professional occupations,402
+538,2011,W02000347,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",703
+539,2011,W02000347,2011 super output areas - middle layer,297,3. Intermediate occupations,196
+540,2011,W02000347,2011 super output areas - middle layer,297,4. Small employers and own account workers,345
+541,2011,W02000347,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,300
+542,2011,W02000347,2011 super output areas - middle layer,297,6. Semi-routine occupations,220
+543,2011,W02000347,2011 super output areas - middle layer,297,7. Routine occupations,266
+544,2011,W02000347,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,88
+545,2011,W02000347,2011 super output areas - middle layer,297,L14.1 Never worked,56
+546,2011,W02000347,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,32
+547,2011,W02000347,2011 super output areas - middle layer,297,L15 Full-time students,258
+548,2011,W02000348,2011 super output areas - middle layer,297,All categories: NS-SeC,2805
+549,2011,W02000348,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",283
+550,2011,W02000348,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,68
+551,2011,W02000348,2011 super output areas - middle layer,297,1.2 Higher professional occupations,215
+552,2011,W02000348,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",491
+553,2011,W02000348,2011 super output areas - middle layer,297,3. Intermediate occupations,237
+554,2011,W02000348,2011 super output areas - middle layer,297,4. Small employers and own account workers,259
+555,2011,W02000348,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,417
+556,2011,W02000348,2011 super output areas - middle layer,297,6. Semi-routine occupations,350
+557,2011,W02000348,2011 super output areas - middle layer,297,7. Routine occupations,444
+558,2011,W02000348,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,134
+559,2011,W02000348,2011 super output areas - middle layer,297,L14.1 Never worked,75
+560,2011,W02000348,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,59
+561,2011,W02000348,2011 super output areas - middle layer,297,L15 Full-time students,190
+562,2011,W02000349,2011 super output areas - middle layer,297,All categories: NS-SeC,2673
+563,2011,W02000349,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",89
+564,2011,W02000349,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,22
+565,2011,W02000349,2011 super output areas - middle layer,297,1.2 Higher professional occupations,67
+566,2011,W02000349,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",230
+567,2011,W02000349,2011 super output areas - middle layer,297,3. Intermediate occupations,145
+568,2011,W02000349,2011 super output areas - middle layer,297,4. Small employers and own account workers,228
+569,2011,W02000349,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,371
+570,2011,W02000349,2011 super output areas - middle layer,297,6. Semi-routine occupations,477
+571,2011,W02000349,2011 super output areas - middle layer,297,7. Routine occupations,708
+572,2011,W02000349,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,261
+573,2011,W02000349,2011 super output areas - middle layer,297,L14.1 Never worked,145
+574,2011,W02000349,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,116
+575,2011,W02000349,2011 super output areas - middle layer,297,L15 Full-time students,164
+576,2011,W02000350,2011 super output areas - middle layer,297,All categories: NS-SeC,2675
+577,2011,W02000350,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",518
+578,2011,W02000350,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,143
+579,2011,W02000350,2011 super output areas - middle layer,297,1.2 Higher professional occupations,375
+580,2011,W02000350,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",587
+581,2011,W02000350,2011 super output areas - middle layer,297,3. Intermediate occupations,141
+582,2011,W02000350,2011 super output areas - middle layer,297,4. Small employers and own account workers,407
+583,2011,W02000350,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,244
+584,2011,W02000350,2011 super output areas - middle layer,297,6. Semi-routine occupations,192
+585,2011,W02000350,2011 super output areas - middle layer,297,7. Routine occupations,342
+586,2011,W02000350,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,80
+587,2011,W02000350,2011 super output areas - middle layer,297,L14.1 Never worked,55
+588,2011,W02000350,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,25
+589,2011,W02000350,2011 super output areas - middle layer,297,L15 Full-time students,164
+590,2011,W02000351,2011 super output areas - middle layer,297,All categories: NS-SeC,2162
+591,2011,W02000351,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",177
+592,2011,W02000351,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,57
+593,2011,W02000351,2011 super output areas - middle layer,297,1.2 Higher professional occupations,120
+594,2011,W02000351,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",376
+595,2011,W02000351,2011 super output areas - middle layer,297,3. Intermediate occupations,160
+596,2011,W02000351,2011 super output areas - middle layer,297,4. Small employers and own account workers,210
+597,2011,W02000351,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,291
+598,2011,W02000351,2011 super output areas - middle layer,297,6. Semi-routine occupations,263
+599,2011,W02000351,2011 super output areas - middle layer,297,7. Routine occupations,406
+600,2011,W02000351,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,145
+601,2011,W02000351,2011 super output areas - middle layer,297,L14.1 Never worked,87
+602,2011,W02000351,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,58
+603,2011,W02000351,2011 super output areas - middle layer,297,L15 Full-time students,134
+604,2011,W02000352,2011 super output areas - middle layer,297,All categories: NS-SeC,2387
+605,2011,W02000352,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",153
+606,2011,W02000352,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,43
+607,2011,W02000352,2011 super output areas - middle layer,297,1.2 Higher professional occupations,110
+608,2011,W02000352,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",390
+609,2011,W02000352,2011 super output areas - middle layer,297,3. Intermediate occupations,194
+610,2011,W02000352,2011 super output areas - middle layer,297,4. Small employers and own account workers,212
+611,2011,W02000352,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,301
+612,2011,W02000352,2011 super output areas - middle layer,297,6. Semi-routine occupations,353
+613,2011,W02000352,2011 super output areas - middle layer,297,7. Routine occupations,471
+614,2011,W02000352,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,142
+615,2011,W02000352,2011 super output areas - middle layer,297,L14.1 Never worked,71
+616,2011,W02000352,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,71
+617,2011,W02000352,2011 super output areas - middle layer,297,L15 Full-time students,171
+618,2011,W02000353,2011 super output areas - middle layer,297,All categories: NS-SeC,2571
+619,2011,W02000353,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",203
+620,2011,W02000353,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,55
+621,2011,W02000353,2011 super output areas - middle layer,297,1.2 Higher professional occupations,148
+622,2011,W02000353,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",427
+623,2011,W02000353,2011 super output areas - middle layer,297,3. Intermediate occupations,209
+624,2011,W02000353,2011 super output areas - middle layer,297,4. Small employers and own account workers,268
+625,2011,W02000353,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,329
+626,2011,W02000353,2011 super output areas - middle layer,297,6. Semi-routine occupations,315
+627,2011,W02000353,2011 super output areas - middle layer,297,7. Routine occupations,435
+628,2011,W02000353,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,112
+629,2011,W02000353,2011 super output areas - middle layer,297,L14.1 Never worked,67
+630,2011,W02000353,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,45
+631,2011,W02000353,2011 super output areas - middle layer,297,L15 Full-time students,273
+632,2011,W02000354,2011 super output areas - middle layer,297,All categories: NS-SeC,2007
+633,2011,W02000354,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",194
+634,2011,W02000354,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,47
+635,2011,W02000354,2011 super output areas - middle layer,297,1.2 Higher professional occupations,147
+636,2011,W02000354,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",334
+637,2011,W02000354,2011 super output areas - middle layer,297,3. Intermediate occupations,131
+638,2011,W02000354,2011 super output areas - middle layer,297,4. Small employers and own account workers,228
+639,2011,W02000354,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,267
+640,2011,W02000354,2011 super output areas - middle layer,297,6. Semi-routine occupations,243
+641,2011,W02000354,2011 super output areas - middle layer,297,7. Routine occupations,350
+642,2011,W02000354,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,116
+643,2011,W02000354,2011 super output areas - middle layer,297,L14.1 Never worked,70
+644,2011,W02000354,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,46
+645,2011,W02000354,2011 super output areas - middle layer,297,L15 Full-time students,144
+646,2011,W02000355,2011 super output areas - middle layer,297,All categories: NS-SeC,2981
+647,2011,W02000355,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",603
+648,2011,W02000355,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,150
+649,2011,W02000355,2011 super output areas - middle layer,297,1.2 Higher professional occupations,453
+650,2011,W02000355,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",786
+651,2011,W02000355,2011 super output areas - middle layer,297,3. Intermediate occupations,267
+652,2011,W02000355,2011 super output areas - middle layer,297,4. Small employers and own account workers,283
+653,2011,W02000355,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,272
+654,2011,W02000355,2011 super output areas - middle layer,297,6. Semi-routine occupations,218
+655,2011,W02000355,2011 super output areas - middle layer,297,7. Routine occupations,240
+656,2011,W02000355,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,79
+657,2011,W02000355,2011 super output areas - middle layer,297,L14.1 Never worked,39
+658,2011,W02000355,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,40
+659,2011,W02000355,2011 super output areas - middle layer,297,L15 Full-time students,233
+660,2011,W02000356,2011 super output areas - middle layer,297,All categories: NS-SeC,1716
+661,2011,W02000356,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",57
+662,2011,W02000356,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,21
+663,2011,W02000356,2011 super output areas - middle layer,297,1.2 Higher professional occupations,36
+664,2011,W02000356,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",143
+665,2011,W02000356,2011 super output areas - middle layer,297,3. Intermediate occupations,74
+666,2011,W02000356,2011 super output areas - middle layer,297,4. Small employers and own account workers,120
+667,2011,W02000356,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,227
+668,2011,W02000356,2011 super output areas - middle layer,297,6. Semi-routine occupations,307
+669,2011,W02000356,2011 super output areas - middle layer,297,7. Routine occupations,489
+670,2011,W02000356,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,175
+671,2011,W02000356,2011 super output areas - middle layer,297,L14.1 Never worked,103
+672,2011,W02000356,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,72
+673,2011,W02000356,2011 super output areas - middle layer,297,L15 Full-time students,124
+674,2011,W02000357,2011 super output areas - middle layer,297,All categories: NS-SeC,2969
+675,2011,W02000357,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",184
+676,2011,W02000357,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,35
+677,2011,W02000357,2011 super output areas - middle layer,297,1.2 Higher professional occupations,149
+678,2011,W02000357,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",437
+679,2011,W02000357,2011 super output areas - middle layer,297,3. Intermediate occupations,217
+680,2011,W02000357,2011 super output areas - middle layer,297,4. Small employers and own account workers,327
+681,2011,W02000357,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,369
+682,2011,W02000357,2011 super output areas - middle layer,297,6. Semi-routine occupations,386
+683,2011,W02000357,2011 super output areas - middle layer,297,7. Routine occupations,500
+684,2011,W02000357,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,212
+685,2011,W02000357,2011 super output areas - middle layer,297,L14.1 Never worked,124
+686,2011,W02000357,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,88
+687,2011,W02000357,2011 super output areas - middle layer,297,L15 Full-time students,337
+688,2011,W02000358,2011 super output areas - middle layer,297,All categories: NS-SeC,2091
+689,2011,W02000358,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",499
+690,2011,W02000358,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,111
+691,2011,W02000358,2011 super output areas - middle layer,297,1.2 Higher professional occupations,388
+692,2011,W02000358,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",521
+693,2011,W02000358,2011 super output areas - middle layer,297,3. Intermediate occupations,160
+694,2011,W02000358,2011 super output areas - middle layer,297,4. Small employers and own account workers,240
+695,2011,W02000358,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,163
+696,2011,W02000358,2011 super output areas - middle layer,297,6. Semi-routine occupations,175
+697,2011,W02000358,2011 super output areas - middle layer,297,7. Routine occupations,157
+698,2011,W02000358,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,77
+699,2011,W02000358,2011 super output areas - middle layer,297,L14.1 Never worked,39
+700,2011,W02000358,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,38
+701,2011,W02000358,2011 super output areas - middle layer,297,L15 Full-time students,99
+702,2011,W02000359,2011 super output areas - middle layer,297,All categories: NS-SeC,3684
+703,2011,W02000359,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",191
+704,2011,W02000359,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,35
+705,2011,W02000359,2011 super output areas - middle layer,297,1.2 Higher professional occupations,156
+706,2011,W02000359,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",457
+707,2011,W02000359,2011 super output areas - middle layer,297,3. Intermediate occupations,304
+708,2011,W02000359,2011 super output areas - middle layer,297,4. Small employers and own account workers,342
+709,2011,W02000359,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,422
+710,2011,W02000359,2011 super output areas - middle layer,297,6. Semi-routine occupations,514
+711,2011,W02000359,2011 super output areas - middle layer,297,7. Routine occupations,829
+712,2011,W02000359,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,328
+713,2011,W02000359,2011 super output areas - middle layer,297,L14.1 Never worked,188
+714,2011,W02000359,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,140
+715,2011,W02000359,2011 super output areas - middle layer,297,L15 Full-time students,297
+716,2011,W02000360,2011 super output areas - middle layer,297,All categories: NS-SeC,2557
+717,2011,W02000360,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",276
+718,2011,W02000360,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,35
+719,2011,W02000360,2011 super output areas - middle layer,297,1.2 Higher professional occupations,241
+720,2011,W02000360,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",410
+721,2011,W02000360,2011 super output areas - middle layer,297,3. Intermediate occupations,233
+722,2011,W02000360,2011 super output areas - middle layer,297,4. Small employers and own account workers,215
+723,2011,W02000360,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,246
+724,2011,W02000360,2011 super output areas - middle layer,297,6. Semi-routine occupations,293
+725,2011,W02000360,2011 super output areas - middle layer,297,7. Routine occupations,352
+726,2011,W02000360,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,220
+727,2011,W02000360,2011 super output areas - middle layer,297,L14.1 Never worked,119
+728,2011,W02000360,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,101
+729,2011,W02000360,2011 super output areas - middle layer,297,L15 Full-time students,312
+730,2011,W02000361,2011 super output areas - middle layer,297,All categories: NS-SeC,3563
+731,2011,W02000361,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",178
+732,2011,W02000361,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,42
+733,2011,W02000361,2011 super output areas - middle layer,297,1.2 Higher professional occupations,136
+734,2011,W02000361,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",400
+735,2011,W02000361,2011 super output areas - middle layer,297,3. Intermediate occupations,178
+736,2011,W02000361,2011 super output areas - middle layer,297,4. Small employers and own account workers,326
+737,2011,W02000361,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,457
+738,2011,W02000361,2011 super output areas - middle layer,297,6. Semi-routine occupations,480
+739,2011,W02000361,2011 super output areas - middle layer,297,7. Routine occupations,781
+740,2011,W02000361,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,252
+741,2011,W02000361,2011 super output areas - middle layer,297,L14.1 Never worked,163
+742,2011,W02000361,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,89
+743,2011,W02000361,2011 super output areas - middle layer,297,L15 Full-time students,511
+744,2011,W02000362,2011 super output areas - middle layer,297,All categories: NS-SeC,2079
+745,2011,W02000362,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",372
+746,2011,W02000362,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,95
+747,2011,W02000362,2011 super output areas - middle layer,297,1.2 Higher professional occupations,277
+748,2011,W02000362,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",501
+749,2011,W02000362,2011 super output areas - middle layer,297,3. Intermediate occupations,158
+750,2011,W02000362,2011 super output areas - middle layer,297,4. Small employers and own account workers,222
+751,2011,W02000362,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,216
+752,2011,W02000362,2011 super output areas - middle layer,297,6. Semi-routine occupations,179
+753,2011,W02000362,2011 super output areas - middle layer,297,7. Routine occupations,237
+754,2011,W02000362,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,65
+755,2011,W02000362,2011 super output areas - middle layer,297,L14.1 Never worked,32
+756,2011,W02000362,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,33
+757,2011,W02000362,2011 super output areas - middle layer,297,L15 Full-time students,129
+758,2011,W02000363,2011 super output areas - middle layer,297,All categories: NS-SeC,1967
+759,2011,W02000363,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",166
+760,2011,W02000363,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,36
+761,2011,W02000363,2011 super output areas - middle layer,297,1.2 Higher professional occupations,130
+762,2011,W02000363,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",328
+763,2011,W02000363,2011 super output areas - middle layer,297,3. Intermediate occupations,165
+764,2011,W02000363,2011 super output areas - middle layer,297,4. Small employers and own account workers,173
+765,2011,W02000363,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,264
+766,2011,W02000363,2011 super output areas - middle layer,297,6. Semi-routine occupations,279
+767,2011,W02000363,2011 super output areas - middle layer,297,7. Routine occupations,361
+768,2011,W02000363,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,88
+769,2011,W02000363,2011 super output areas - middle layer,297,L14.1 Never worked,42
+770,2011,W02000363,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,46
+771,2011,W02000363,2011 super output areas - middle layer,297,L15 Full-time students,143
+772,2011,W02000364,2011 super output areas - middle layer,297,All categories: NS-SeC,2652
+773,2011,W02000364,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",113
+774,2011,W02000364,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,20
+775,2011,W02000364,2011 super output areas - middle layer,297,1.2 Higher professional occupations,93
+776,2011,W02000364,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",236
+777,2011,W02000364,2011 super output areas - middle layer,297,3. Intermediate occupations,131
+778,2011,W02000364,2011 super output areas - middle layer,297,4. Small employers and own account workers,238
+779,2011,W02000364,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,247
+780,2011,W02000364,2011 super output areas - middle layer,297,6. Semi-routine occupations,406
+781,2011,W02000364,2011 super output areas - middle layer,297,7. Routine occupations,489
+782,2011,W02000364,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,309
+783,2011,W02000364,2011 super output areas - middle layer,297,L14.1 Never worked,207
+784,2011,W02000364,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,102
+785,2011,W02000364,2011 super output areas - middle layer,297,L15 Full-time students,483
+786,2011,W02000365,2011 super output areas - middle layer,297,All categories: NS-SeC,2406
+787,2011,W02000365,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",172
+788,2011,W02000365,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,29
+789,2011,W02000365,2011 super output areas - middle layer,297,1.2 Higher professional occupations,143
+790,2011,W02000365,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",372
+791,2011,W02000365,2011 super output areas - middle layer,297,3. Intermediate occupations,195
+792,2011,W02000365,2011 super output areas - middle layer,297,4. Small employers and own account workers,178
+793,2011,W02000365,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,309
+794,2011,W02000365,2011 super output areas - middle layer,297,6. Semi-routine occupations,347
+795,2011,W02000365,2011 super output areas - middle layer,297,7. Routine occupations,480
+796,2011,W02000365,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,191
+797,2011,W02000365,2011 super output areas - middle layer,297,L14.1 Never worked,117
+798,2011,W02000365,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,74
+799,2011,W02000365,2011 super output areas - middle layer,297,L15 Full-time students,162
+800,2011,W02000366,2011 super output areas - middle layer,297,All categories: NS-SeC,2940
+801,2011,W02000366,2011 super output areas - middle layer,297,"1. Higher managerial, administrative and professional occupations",620
+802,2011,W02000366,2011 super output areas - middle layer,297,1.1 Large employers and higher managerial and administrative occupations,147
+803,2011,W02000366,2011 super output areas - middle layer,297,1.2 Higher professional occupations,473
+804,2011,W02000366,2011 super output areas - middle layer,297,"2. Lower managerial, administrative and professional occupations",717
+805,2011,W02000366,2011 super output areas - middle layer,297,3. Intermediate occupations,248
+806,2011,W02000366,2011 super output areas - middle layer,297,4. Small employers and own account workers,402
+807,2011,W02000366,2011 super output areas - middle layer,297,5. Lower supervisory and technical occupations,270
+808,2011,W02000366,2011 super output areas - middle layer,297,6. Semi-routine occupations,209
+809,2011,W02000366,2011 super output areas - middle layer,297,7. Routine occupations,228
+810,2011,W02000366,2011 super output areas - middle layer,297,8. Never worked and long-term unemployed,59
+811,2011,W02000366,2011 super output areas - middle layer,297,L14.1 Never worked,27
+812,2011,W02000366,2011 super output areas - middle layer,297,L14.2 Long-term unemployed,32
+813,2011,W02000366,2011 super output areas - middle layer,297,L15 Full-time students,187
