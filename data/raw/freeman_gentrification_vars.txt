@@ -1,0 +1,21 @@
+2011 construction:
+no direct numbers
+can use c2011ks401uk, number of household dwellings, subtract 2001 numbers, to get new dwellings as a proxy
+
+2011 income:
+.\data\raw\govuk\1smallareaincomeestimatesdatatcm77420299.xls
+
+2011 cities:
+.\data\raw\geoportal\Middle_Layer_Super_Output_Area_(2011)_to_Major_Towns_and_Cities_(December_2015)_Lookup_in_England_and_Wales.csv
+
+2011 educational attainment:
+c2011ks501ew
+
+2021 educational attainment:
+c2021ts067
+
+2011 house prices:
+data\raw\ons\hpssamedianpricebymsoa.xlsx
+
+2021 house prices:
+data\raw\ons\hpssamedianpricebymsoa.xlsx
