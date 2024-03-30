@@ -1,0 +1,359 @@
+,DATE,GEOGRAPHY_CODE,GEOGRAPHY_TYPE,GEOGRAPHY_TYPECODE,CELL_NAME,OBS_VALUE
+0,2001,W02000194,2001 super output areas - middle layer,305,Widowed,475
+1,2001,W02000195,2001 super output areas - middle layer,305,All people,5287
+2,2001,W02000195,2001 super output areas - middle layer,305,Single (never married),1184
+3,2001,W02000195,2001 super output areas - middle layer,305,Married (first marriage),2848
+4,2001,W02000195,2001 super output areas - middle layer,305,Re-married,383
+5,2001,W02000195,2001 super output areas - middle layer,305,Separated (but still legally married),53
+6,2001,W02000195,2001 super output areas - middle layer,305,Divorced,287
+7,2001,W02000195,2001 super output areas - middle layer,305,Widowed,532
+8,2001,W02000196,2001 super output areas - middle layer,305,All people,5493
+9,2001,W02000196,2001 super output areas - middle layer,305,Single (never married),1231
+10,2001,W02000196,2001 super output areas - middle layer,305,Married (first marriage),2513
+11,2001,W02000196,2001 super output areas - middle layer,305,Re-married,394
+12,2001,W02000196,2001 super output areas - middle layer,305,Separated (but still legally married),81
+13,2001,W02000196,2001 super output areas - middle layer,305,Divorced,503
+14,2001,W02000196,2001 super output areas - middle layer,305,Widowed,771
+15,2001,W02000197,2001 super output areas - middle layer,305,All people,5280
+16,2001,W02000197,2001 super output areas - middle layer,305,Single (never married),1108
+17,2001,W02000197,2001 super output areas - middle layer,305,Married (first marriage),2823
+18,2001,W02000197,2001 super output areas - middle layer,305,Re-married,442
+19,2001,W02000197,2001 super output areas - middle layer,305,Separated (but still legally married),54
+20,2001,W02000197,2001 super output areas - middle layer,305,Divorced,315
+21,2001,W02000197,2001 super output areas - middle layer,305,Widowed,538
+22,2001,W02000198,2001 super output areas - middle layer,305,All people,6418
+23,2001,W02000198,2001 super output areas - middle layer,305,Single (never married),1667
+24,2001,W02000198,2001 super output areas - middle layer,305,Married (first marriage),2963
+25,2001,W02000198,2001 super output areas - middle layer,305,Re-married,495
+26,2001,W02000198,2001 super output areas - middle layer,305,Separated (but still legally married),113
+27,2001,W02000198,2001 super output areas - middle layer,305,Divorced,450
+28,2001,W02000198,2001 super output areas - middle layer,305,Widowed,730
+29,2001,W02000323,2001 super output areas - middle layer,305,All people,4650
+30,2001,W02000323,2001 super output areas - middle layer,305,Single (never married),1219
+31,2001,W02000323,2001 super output areas - middle layer,305,Married (first marriage),2055
+32,2001,W02000323,2001 super output areas - middle layer,305,Re-married,295
+33,2001,W02000323,2001 super output areas - middle layer,305,Separated (but still legally married),90
+34,2001,W02000323,2001 super output areas - middle layer,305,Divorced,434
+35,2001,W02000323,2001 super output areas - middle layer,305,Widowed,557
+36,2001,W02000324,2001 super output areas - middle layer,305,All people,5304
+37,2001,W02000324,2001 super output areas - middle layer,305,Single (never married),1378
+38,2001,W02000324,2001 super output areas - middle layer,305,Married (first marriage),2380
+39,2001,W02000324,2001 super output areas - middle layer,305,Re-married,434
+40,2001,W02000324,2001 super output areas - middle layer,305,Separated (but still legally married),90
+41,2001,W02000324,2001 super output areas - middle layer,305,Divorced,501
+42,2001,W02000324,2001 super output areas - middle layer,305,Widowed,521
+43,2001,W02000325,2001 super output areas - middle layer,305,All people,5475
+44,2001,W02000325,2001 super output areas - middle layer,305,Single (never married),1603
+45,2001,W02000325,2001 super output areas - middle layer,305,Married (first marriage),2268
+46,2001,W02000325,2001 super output areas - middle layer,305,Re-married,431
+47,2001,W02000325,2001 super output areas - middle layer,305,Separated (but still legally married),125
+48,2001,W02000325,2001 super output areas - middle layer,305,Divorced,528
+49,2001,W02000325,2001 super output areas - middle layer,305,Widowed,520
+50,2001,W02000326,2001 super output areas - middle layer,305,All people,7002
+51,2001,W02000326,2001 super output areas - middle layer,305,Single (never married),1846
+52,2001,W02000326,2001 super output areas - middle layer,305,Married (first marriage),3082
+53,2001,W02000326,2001 super output areas - middle layer,305,Re-married,506
+54,2001,W02000326,2001 super output areas - middle layer,305,Separated (but still legally married),134
+55,2001,W02000326,2001 super output areas - middle layer,305,Divorced,708
+56,2001,W02000326,2001 super output areas - middle layer,305,Widowed,726
+57,2001,W02000327,2001 super output areas - middle layer,305,All people,5159
+58,2001,W02000327,2001 super output areas - middle layer,305,Single (never married),1079
+59,2001,W02000327,2001 super output areas - middle layer,305,Married (first marriage),2686
+60,2001,W02000327,2001 super output areas - middle layer,305,Re-married,486
+61,2001,W02000327,2001 super output areas - middle layer,305,Separated (but still legally married),68
+62,2001,W02000327,2001 super output areas - middle layer,305,Divorced,376
+63,2001,W02000327,2001 super output areas - middle layer,305,Widowed,464
+64,2001,W02000328,2001 super output areas - middle layer,305,All people,5611
+65,2001,W02000328,2001 super output areas - middle layer,305,Single (never married),1409
+66,2001,W02000328,2001 super output areas - middle layer,305,Married (first marriage),2641
+67,2001,W02000328,2001 super output areas - middle layer,305,Re-married,440
+68,2001,W02000328,2001 super output areas - middle layer,305,Separated (but still legally married),90
+69,2001,W02000328,2001 super output areas - middle layer,305,Divorced,447
+70,2001,W02000328,2001 super output areas - middle layer,305,Widowed,584
+71,2001,W02000329,2001 super output areas - middle layer,305,All people,5797
+72,2001,W02000329,2001 super output areas - middle layer,305,Single (never married),1443
+73,2001,W02000329,2001 super output areas - middle layer,305,Married (first marriage),2560
+74,2001,W02000329,2001 super output areas - middle layer,305,Re-married,468
+75,2001,W02000329,2001 super output areas - middle layer,305,Separated (but still legally married),114
+76,2001,W02000329,2001 super output areas - middle layer,305,Divorced,585
+77,2001,W02000329,2001 super output areas - middle layer,305,Widowed,627
+78,2001,W02000330,2001 super output areas - middle layer,305,All people,6040
+79,2001,W02000330,2001 super output areas - middle layer,305,Single (never married),1178
+80,2001,W02000330,2001 super output areas - middle layer,305,Married (first marriage),3021
+81,2001,W02000330,2001 super output areas - middle layer,305,Re-married,483
+82,2001,W02000330,2001 super output areas - middle layer,305,Separated (but still legally married),111
+83,2001,W02000330,2001 super output areas - middle layer,305,Divorced,485
+84,2001,W02000330,2001 super output areas - middle layer,305,Widowed,762
+85,2001,W02000331,2001 super output areas - middle layer,305,All people,5351
+86,2001,W02000331,2001 super output areas - middle layer,305,Single (never married),1660
+87,2001,W02000331,2001 super output areas - middle layer,305,Married (first marriage),2045
+88,2001,W02000331,2001 super output areas - middle layer,305,Re-married,490
+89,2001,W02000331,2001 super output areas - middle layer,305,Separated (but still legally married),159
+90,2001,W02000331,2001 super output areas - middle layer,305,Divorced,642
+91,2001,W02000331,2001 super output areas - middle layer,305,Widowed,355
+92,2001,W02000332,2001 super output areas - middle layer,305,All people,5682
+93,2001,W02000332,2001 super output areas - middle layer,305,Single (never married),1534
+94,2001,W02000332,2001 super output areas - middle layer,305,Married (first marriage),2223
+95,2001,W02000332,2001 super output areas - middle layer,305,Re-married,473
+96,2001,W02000332,2001 super output areas - middle layer,305,Separated (but still legally married),134
+97,2001,W02000332,2001 super output areas - middle layer,305,Divorced,643
+98,2001,W02000332,2001 super output areas - middle layer,305,Widowed,675
+99,2001,W02000333,2001 super output areas - middle layer,305,All people,5199
+100,2001,W02000333,2001 super output areas - middle layer,305,Single (never married),1326
+101,2001,W02000333,2001 super output areas - middle layer,305,Married (first marriage),2395
+102,2001,W02000333,2001 super output areas - middle layer,305,Re-married,500
+103,2001,W02000333,2001 super output areas - middle layer,305,Separated (but still legally married),118
+104,2001,W02000333,2001 super output areas - middle layer,305,Divorced,539
+105,2001,W02000333,2001 super output areas - middle layer,305,Widowed,321
+106,2001,W02000334,2001 super output areas - middle layer,305,All people,5472
+107,2001,W02000334,2001 super output areas - middle layer,305,Single (never married),1383
+108,2001,W02000334,2001 super output areas - middle layer,305,Married (first marriage),2727
+109,2001,W02000334,2001 super output areas - middle layer,305,Re-married,508
+110,2001,W02000334,2001 super output areas - middle layer,305,Separated (but still legally married),89
+111,2001,W02000334,2001 super output areas - middle layer,305,Divorced,502
+112,2001,W02000334,2001 super output areas - middle layer,305,Widowed,263
+113,2001,W02000335,2001 super output areas - middle layer,305,All people,4801
+114,2001,W02000335,2001 super output areas - middle layer,305,Single (never married),959
+115,2001,W02000335,2001 super output areas - middle layer,305,Married (first marriage),2510
+116,2001,W02000335,2001 super output areas - middle layer,305,Re-married,421
+117,2001,W02000335,2001 super output areas - middle layer,305,Separated (but still legally married),57
+118,2001,W02000335,2001 super output areas - middle layer,305,Divorced,344
+119,2001,W02000335,2001 super output areas - middle layer,305,Widowed,510
+120,2001,W02000237,2001 super output areas - middle layer,305,All people,4332
+121,2001,W02000237,2001 super output areas - middle layer,305,Single (never married),825
+122,2001,W02000237,2001 super output areas - middle layer,305,Married (first marriage),2493
+123,2001,W02000237,2001 super output areas - middle layer,305,Re-married,417
+124,2001,W02000237,2001 super output areas - middle layer,305,Separated (but still legally married),61
+125,2001,W02000237,2001 super output areas - middle layer,305,Divorced,217
+126,2001,W02000237,2001 super output areas - middle layer,305,Widowed,319
+127,2001,W02000238,2001 super output areas - middle layer,305,All people,5210
+128,2001,W02000238,2001 super output areas - middle layer,305,Single (never married),971
+129,2001,W02000238,2001 super output areas - middle layer,305,Married (first marriage),2896
+130,2001,W02000238,2001 super output areas - middle layer,305,Re-married,463
+131,2001,W02000238,2001 super output areas - middle layer,305,Separated (but still legally married),65
+132,2001,W02000238,2001 super output areas - middle layer,305,Divorced,347
+133,2001,W02000238,2001 super output areas - middle layer,305,Widowed,468
+134,2001,W02000239,2001 super output areas - middle layer,305,All people,5175
+135,2001,W02000239,2001 super output areas - middle layer,305,Single (never married),1095
+136,2001,W02000239,2001 super output areas - middle layer,305,Married (first marriage),2864
+137,2001,W02000239,2001 super output areas - middle layer,305,Re-married,498
+138,2001,W02000239,2001 super output areas - middle layer,305,Separated (but still legally married),87
+139,2001,W02000239,2001 super output areas - middle layer,305,Divorced,316
+140,2001,W02000239,2001 super output areas - middle layer,305,Widowed,315
+141,2001,W02000240,2001 super output areas - middle layer,305,All people,6961
+142,2001,W02000240,2001 super output areas - middle layer,305,Single (never married),1760
+143,2001,W02000240,2001 super output areas - middle layer,305,Married (first marriage),3310
+144,2001,W02000240,2001 super output areas - middle layer,305,Re-married,626
+145,2001,W02000240,2001 super output areas - middle layer,305,Separated (but still legally married),114
+146,2001,W02000240,2001 super output areas - middle layer,305,Divorced,564
+147,2001,W02000240,2001 super output areas - middle layer,305,Widowed,587
+148,2001,W02000241,2001 super output areas - middle layer,305,All people,7322
+149,2001,W02000241,2001 super output areas - middle layer,305,Single (never married),2157
+150,2001,W02000241,2001 super output areas - middle layer,305,Married (first marriage),2869
+151,2001,W02000241,2001 super output areas - middle layer,305,Re-married,538
+152,2001,W02000241,2001 super output areas - middle layer,305,Separated (but still legally married),165
+153,2001,W02000241,2001 super output areas - middle layer,305,Divorced,769
+154,2001,W02000241,2001 super output areas - middle layer,305,Widowed,824
+155,2001,W02000242,2001 super output areas - middle layer,305,All people,6404
+156,2001,W02000242,2001 super output areas - middle layer,305,Single (never married),1356
+157,2001,W02000242,2001 super output areas - middle layer,305,Married (first marriage),3435
+158,2001,W02000242,2001 super output areas - middle layer,305,Re-married,544
+159,2001,W02000242,2001 super output areas - middle layer,305,Separated (but still legally married),92
+160,2001,W02000242,2001 super output areas - middle layer,305,Divorced,446
+161,2001,W02000242,2001 super output areas - middle layer,305,Widowed,531
+162,2001,W02000243,2001 super output areas - middle layer,305,All people,6458
+163,2001,W02000243,2001 super output areas - middle layer,305,Single (never married),1897
+164,2001,W02000243,2001 super output areas - middle layer,305,Married (first marriage),2544
+165,2001,W02000243,2001 super output areas - middle layer,305,Re-married,600
+166,2001,W02000243,2001 super output areas - middle layer,305,Separated (but still legally married),171
+167,2001,W02000243,2001 super output areas - middle layer,305,Divorced,708
+168,2001,W02000243,2001 super output areas - middle layer,305,Widowed,538
+169,2001,W02000244,2001 super output areas - middle layer,305,All people,6993
+170,2001,W02000244,2001 super output areas - middle layer,305,Single (never married),1387
+171,2001,W02000244,2001 super output areas - middle layer,305,Married (first marriage),3633
+172,2001,W02000244,2001 super output areas - middle layer,305,Re-married,645
+173,2001,W02000244,2001 super output areas - middle layer,305,Separated (but still legally married),102
+174,2001,W02000244,2001 super output areas - middle layer,305,Divorced,564
+175,2001,W02000244,2001 super output areas - middle layer,305,Widowed,662
+176,2001,W02000245,2001 super output areas - middle layer,305,All people,5195
+177,2001,W02000245,2001 super output areas - middle layer,305,Single (never married),1647
+178,2001,W02000245,2001 super output areas - middle layer,305,Married (first marriage),1986
+179,2001,W02000245,2001 super output areas - middle layer,305,Re-married,508
+180,2001,W02000245,2001 super output areas - middle layer,305,Separated (but still legally married),136
+181,2001,W02000245,2001 super output areas - middle layer,305,Divorced,629
+182,2001,W02000245,2001 super output areas - middle layer,305,Widowed,289
+183,2001,W02000246,2001 super output areas - middle layer,305,All people,4547
+184,2001,W02000246,2001 super output areas - middle layer,305,Single (never married),909
+185,2001,W02000246,2001 super output areas - middle layer,305,Married (first marriage),2501
+186,2001,W02000246,2001 super output areas - middle layer,305,Re-married,425
+187,2001,W02000246,2001 super output areas - middle layer,305,Separated (but still legally married),74
+188,2001,W02000246,2001 super output areas - middle layer,305,Divorced,294
+189,2001,W02000246,2001 super output areas - middle layer,305,Widowed,344
+190,2001,W02000247,2001 super output areas - middle layer,305,All people,7304
+191,2001,W02000247,2001 super output areas - middle layer,305,Single (never married),1818
+192,2001,W02000247,2001 super output areas - middle layer,305,Married (first marriage),3631
+193,2001,W02000247,2001 super output areas - middle layer,305,Re-married,663
+194,2001,W02000247,2001 super output areas - middle layer,305,Separated (but still legally married),126
+195,2001,W02000247,2001 super output areas - middle layer,305,Divorced,560
+196,2001,W02000247,2001 super output areas - middle layer,305,Widowed,506
+197,2001,W02000248,2001 super output areas - middle layer,305,All people,7524
+198,2001,W02000248,2001 super output areas - middle layer,305,Single (never married),2369
+199,2001,W02000248,2001 super output areas - middle layer,305,Married (first marriage),2878
+200,2001,W02000248,2001 super output areas - middle layer,305,Re-married,623
+201,2001,W02000248,2001 super output areas - middle layer,305,Separated (but still legally married),213
+202,2001,W02000248,2001 super output areas - middle layer,305,Divorced,850
+203,2001,W02000248,2001 super output areas - middle layer,305,Widowed,591
+204,2001,W02000249,2001 super output areas - middle layer,305,All people,7054
+205,2001,W02000249,2001 super output areas - middle layer,305,Single (never married),2120
+206,2001,W02000249,2001 super output areas - middle layer,305,Married (first marriage),2566
+207,2001,W02000249,2001 super output areas - middle layer,305,Re-married,552
+208,2001,W02000249,2001 super output areas - middle layer,305,Separated (but still legally married),167
+209,2001,W02000249,2001 super output areas - middle layer,305,Divorced,792
+210,2001,W02000249,2001 super output areas - middle layer,305,Widowed,857
+211,2001,W02000250,2001 super output areas - middle layer,305,All people,7380
+212,2001,W02000250,2001 super output areas - middle layer,305,Single (never married),1815
+213,2001,W02000250,2001 super output areas - middle layer,305,Married (first marriage),3575
+214,2001,W02000250,2001 super output areas - middle layer,305,Re-married,759
+215,2001,W02000250,2001 super output areas - middle layer,305,Separated (but still legally married),149
+216,2001,W02000250,2001 super output areas - middle layer,305,Divorced,617
+217,2001,W02000250,2001 super output areas - middle layer,305,Widowed,465
+218,2001,W02000251,2001 super output areas - middle layer,305,All people,5811
+219,2001,W02000251,2001 super output areas - middle layer,305,Single (never married),1606
+220,2001,W02000251,2001 super output areas - middle layer,305,Married (first marriage),2257
+221,2001,W02000251,2001 super output areas - middle layer,305,Re-married,537
+222,2001,W02000251,2001 super output areas - middle layer,305,Separated (but still legally married),139
+223,2001,W02000251,2001 super output areas - middle layer,305,Divorced,579
+224,2001,W02000251,2001 super output areas - middle layer,305,Widowed,693
+225,2001,W02000078,2001 super output areas - middle layer,305,All people,6367
+226,2001,W02000078,2001 super output areas - middle layer,305,Single (never married),1487
+227,2001,W02000078,2001 super output areas - middle layer,305,Married (first marriage),3235
+228,2001,W02000078,2001 super output areas - middle layer,305,Re-married,522
+229,2001,W02000078,2001 super output areas - middle layer,305,Separated (but still legally married),105
+230,2001,W02000078,2001 super output areas - middle layer,305,Divorced,451
+231,2001,W02000078,2001 super output areas - middle layer,305,Widowed,567
+232,2001,W02000079,2001 super output areas - middle layer,305,All people,4395
+233,2001,W02000079,2001 super output areas - middle layer,305,Single (never married),984
+234,2001,W02000079,2001 super output areas - middle layer,305,Married (first marriage),2315
+235,2001,W02000079,2001 super output areas - middle layer,305,Re-married,362
+236,2001,W02000079,2001 super output areas - middle layer,305,Separated (but still legally married),48
+237,2001,W02000079,2001 super output areas - middle layer,305,Divorced,263
+238,2001,W02000079,2001 super output areas - middle layer,305,Widowed,423
+239,2001,W02000080,2001 super output areas - middle layer,305,All people,6016
+240,2001,W02000080,2001 super output areas - middle layer,305,Single (never married),1745
+241,2001,W02000080,2001 super output areas - middle layer,305,Married (first marriage),2676
+242,2001,W02000080,2001 super output areas - middle layer,305,Re-married,470
+243,2001,W02000080,2001 super output areas - middle layer,305,Separated (but still legally married),89
+244,2001,W02000080,2001 super output areas - middle layer,305,Divorced,517
+245,2001,W02000080,2001 super output areas - middle layer,305,Widowed,519
+246,2001,W02000081,2001 super output areas - middle layer,305,All people,4462
+247,2001,W02000081,2001 super output areas - middle layer,305,Single (never married),1431
+248,2001,W02000081,2001 super output areas - middle layer,305,Married (first marriage),1920
+249,2001,W02000081,2001 super output areas - middle layer,305,Re-married,276
+250,2001,W02000081,2001 super output areas - middle layer,305,Separated (but still legally married),96
+251,2001,W02000081,2001 super output areas - middle layer,305,Divorced,384
+252,2001,W02000081,2001 super output areas - middle layer,305,Widowed,355
+253,2001,W02000082,2001 super output areas - middle layer,305,All people,5498
+254,2001,W02000082,2001 super output areas - middle layer,305,Single (never married),1666
+255,2001,W02000082,2001 super output areas - middle layer,305,Married (first marriage),2312
+256,2001,W02000082,2001 super output areas - middle layer,305,Re-married,415
+257,2001,W02000082,2001 super output areas - middle layer,305,Separated (but still legally married),91
+258,2001,W02000082,2001 super output areas - middle layer,305,Divorced,537
+259,2001,W02000082,2001 super output areas - middle layer,305,Widowed,477
+260,2001,W02000083,2001 super output areas - middle layer,305,All people,5838
+261,2001,W02000083,2001 super output areas - middle layer,305,Single (never married),1670
+262,2001,W02000083,2001 super output areas - middle layer,305,Married (first marriage),2594
+263,2001,W02000083,2001 super output areas - middle layer,305,Re-married,399
+264,2001,W02000083,2001 super output areas - middle layer,305,Separated (but still legally married),74
+265,2001,W02000083,2001 super output areas - middle layer,305,Divorced,571
+266,2001,W02000083,2001 super output areas - middle layer,305,Widowed,530
+267,2001,W02000084,2001 super output areas - middle layer,305,All people,4606
+268,2001,W02000084,2001 super output areas - middle layer,305,Single (never married),1011
+269,2001,W02000084,2001 super output areas - middle layer,305,Married (first marriage),2565
+270,2001,W02000084,2001 super output areas - middle layer,305,Re-married,358
+271,2001,W02000084,2001 super output areas - middle layer,305,Separated (but still legally married),33
+272,2001,W02000084,2001 super output areas - middle layer,305,Divorced,295
+273,2001,W02000084,2001 super output areas - middle layer,305,Widowed,344
+274,2001,W02000085,2001 super output areas - middle layer,305,All people,7510
+275,2001,W02000085,2001 super output areas - middle layer,305,Single (never married),2103
+276,2001,W02000085,2001 super output areas - middle layer,305,Married (first marriage),3479
+277,2001,W02000085,2001 super output areas - middle layer,305,Re-married,497
+278,2001,W02000085,2001 super output areas - middle layer,305,Separated (but still legally married),87
+279,2001,W02000085,2001 super output areas - middle layer,305,Divorced,569
+280,2001,W02000085,2001 super output areas - middle layer,305,Widowed,775
+281,2001,W02000086,2001 super output areas - middle layer,305,All people,4119
+282,2001,W02000086,2001 super output areas - middle layer,305,Single (never married),1013
+283,2001,W02000086,2001 super output areas - middle layer,305,Married (first marriage),1854
+284,2001,W02000086,2001 super output areas - middle layer,305,Re-married,337
+285,2001,W02000086,2001 super output areas - middle layer,305,Separated (but still legally married),46
+286,2001,W02000086,2001 super output areas - middle layer,305,Divorced,348
+287,2001,W02000086,2001 super output areas - middle layer,305,Widowed,521
+288,2001,W02000087,2001 super output areas - middle layer,305,All people,5019
+289,2001,W02000087,2001 super output areas - middle layer,305,Single (never married),1784
+290,2001,W02000087,2001 super output areas - middle layer,305,Married (first marriage),1613
+291,2001,W02000087,2001 super output areas - middle layer,305,Re-married,371
+292,2001,W02000087,2001 super output areas - middle layer,305,Separated (but still legally married),132
+293,2001,W02000087,2001 super output areas - middle layer,305,Divorced,645
+294,2001,W02000087,2001 super output areas - middle layer,305,Widowed,474
+295,2001,W02000088,2001 super output areas - middle layer,305,All people,6232
+296,2001,W02000088,2001 super output areas - middle layer,305,Single (never married),2313
+297,2001,W02000088,2001 super output areas - middle layer,305,Married (first marriage),2345
+298,2001,W02000088,2001 super output areas - middle layer,305,Re-married,396
+299,2001,W02000088,2001 super output areas - middle layer,305,Separated (but still legally married),105
+300,2001,W02000088,2001 super output areas - middle layer,305,Divorced,554
+301,2001,W02000088,2001 super output areas - middle layer,305,Widowed,519
+302,2001,W02000089,2001 super output areas - middle layer,305,All people,5943
+303,2001,W02000089,2001 super output areas - middle layer,305,Single (never married),2017
+304,2001,W02000089,2001 super output areas - middle layer,305,Married (first marriage),2057
+305,2001,W02000089,2001 super output areas - middle layer,305,Re-married,450
+306,2001,W02000089,2001 super output areas - middle layer,305,Separated (but still legally married),131
+307,2001,W02000089,2001 super output areas - middle layer,305,Divorced,711
+308,2001,W02000089,2001 super output areas - middle layer,305,Widowed,577
+309,2001,W02000090,2001 super output areas - middle layer,305,All people,4655
+310,2001,W02000090,2001 super output areas - middle layer,305,Single (never married),1320
+311,2001,W02000090,2001 super output areas - middle layer,305,Married (first marriage),2202
+312,2001,W02000090,2001 super output areas - middle layer,305,Re-married,338
+313,2001,W02000090,2001 super output areas - middle layer,305,Separated (but still legally married),74
+314,2001,W02000090,2001 super output areas - middle layer,305,Divorced,399
+315,2001,W02000090,2001 super output areas - middle layer,305,Widowed,322
+316,2001,W02000091,2001 super output areas - middle layer,305,All people,4914
+317,2001,W02000091,2001 super output areas - middle layer,305,Single (never married),1313
+318,2001,W02000091,2001 super output areas - middle layer,305,Married (first marriage),2393
+319,2001,W02000091,2001 super output areas - middle layer,305,Re-married,345
+320,2001,W02000091,2001 super output areas - middle layer,305,Separated (but still legally married),61
+321,2001,W02000091,2001 super output areas - middle layer,305,Divorced,361
+322,2001,W02000091,2001 super output areas - middle layer,305,Widowed,441
+323,2001,W02000092,2001 super output areas - middle layer,305,All people,5389
+324,2001,W02000092,2001 super output areas - middle layer,305,Single (never married),1687
+325,2001,W02000092,2001 super output areas - middle layer,305,Married (first marriage),2137
+326,2001,W02000092,2001 super output areas - middle layer,305,Re-married,310
+327,2001,W02000092,2001 super output areas - middle layer,305,Separated (but still legally married),93
+328,2001,W02000092,2001 super output areas - middle layer,305,Divorced,501
+329,2001,W02000092,2001 super output areas - middle layer,305,Widowed,661
+330,2001,W02000093,2001 super output areas - middle layer,305,All people,4822
+331,2001,W02000093,2001 super output areas - middle layer,305,Single (never married),1229
+332,2001,W02000093,2001 super output areas - middle layer,305,Married (first marriage),2323
+333,2001,W02000093,2001 super output areas - middle layer,305,Re-married,376
+334,2001,W02000093,2001 super output areas - middle layer,305,Separated (but still legally married),111
+335,2001,W02000093,2001 super output areas - middle layer,305,Divorced,431
+336,2001,W02000093,2001 super output areas - middle layer,305,Widowed,352
+337,2001,W02000094,2001 super output areas - middle layer,305,All people,6845
+338,2001,W02000094,2001 super output areas - middle layer,305,Single (never married),2023
+339,2001,W02000094,2001 super output areas - middle layer,305,Married (first marriage),2807
+340,2001,W02000094,2001 super output areas - middle layer,305,Re-married,503
+341,2001,W02000094,2001 super output areas - middle layer,305,Separated (but still legally married),127
+342,2001,W02000094,2001 super output areas - middle layer,305,Divorced,696
+343,2001,W02000094,2001 super output areas - middle layer,305,Widowed,689
+344,2001,W02000095,2001 super output areas - middle layer,305,All people,5181
+345,2001,W02000095,2001 super output areas - middle layer,305,Single (never married),1205
+346,2001,W02000095,2001 super output areas - middle layer,305,Married (first marriage),2666
+347,2001,W02000095,2001 super output areas - middle layer,305,Re-married,439
+348,2001,W02000095,2001 super output areas - middle layer,305,Separated (but still legally married),65
+349,2001,W02000095,2001 super output areas - middle layer,305,Divorced,382
+350,2001,W02000095,2001 super output areas - middle layer,305,Widowed,424
+351,2001,W02000096,2001 super output areas - middle layer,305,All people,5329
+352,2001,W02000096,2001 super output areas - middle layer,305,Single (never married),1264
+353,2001,W02000096,2001 super output areas - middle layer,305,Married (first marriage),2531
+354,2001,W02000096,2001 super output areas - middle layer,305,Re-married,436
+355,2001,W02000096,2001 super output areas - middle layer,305,Separated (but still legally married),92
+356,2001,W02000096,2001 super output areas - middle layer,305,Divorced,461
+357,2001,W02000096,2001 super output areas - middle layer,305,Widowed,545
