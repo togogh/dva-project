@@ -1,0 +1,108 @@
+,id,mnemonic,description,geoglevel
+0,NM_144_1,c2011ks101ew,"This table provides information that classifies by sex for the usual resident population of England and Wales as at census day, 27 March 2011.
+
+The 2011 usual resident population is also classified by the number of residents living in households and those living in communal establishments.
+
+ Additional information provided includes the area and population density for each area, and the number of students and schoolchildren who would reside in each area if they were not living away from their family home during term-time.","oa,ps"
+1,NM_145_1,c2011ks102ew,"This table provides information about the age structure, mean and median ages of usual residents of England and Wales as at census day, 27 March 2011.","oa,ps"
+2,NM_146_1,c2011ks403ew,"This table provides information about the rooms, bedrooms and central heating in households, for England and Wales as at census day, 27 March 2011. It includes information about the average size of households, whether they have central heating, the number of rooms and bedrooms, and the occupancy rating of the household (based on both rooms and bedrooms).","oa,ps"
+3,NM_158_1,c2011ks101uk,"This table provides information that classifies by sex for the usual resident population of United Kingdom as at census day, 27 March 2011.
+
+The 2011 usual resident population is also classified by the number of residents living in households and those living in communal establishments.
+
+Additional information provided includes the area and population density for each area, and the number of students and schoolchildren who would reside in each area if they were not living away from their family home during term-time.
+
+'All full-time students and schoolchildren aged 4+ years living away from home during term time' figures for Northern Ireland sourced from table QS106NI.
+
+Area and Population Density figures for Noerthern Ireland sourced from table QS102NI.","oa,ps"
+4,NM_159_1,c2011ks102uk,"This table provides information about the age structure, mean and median ages of usual residents of United Kingdom as at census day, 27 March 2011.","oa,ps"
+5,NM_603_1,c2011ks103ew,"This table provides information that classified usual residents aged 16 and over by marital and civil partnership status, for England and Wales as at census day, 27 March 2011.
+
+This classification takes account of the Civil Partnership Act which came into force on 5 December 2005, providing information about civil partnership status for the first time in census results.","oa,ps"
+6,NM_604_1,c2011ks104ew,"This table provides information that classifies usual residents aged 16 and over in households by their living arrangements, for England and Wales as at census day, 27 March 2011. The living arrangements classification differs from marital and civil partnership status because cohabiting takes priority over other categories.","oa,ps"
+7,NM_605_1,c2011ks105ew,"This table provides information that classifies households by the relationships between the household members (household composition), for England and Wales as at census day, 27 March 2011.","oa,ps"
+8,NM_606_1,c2011ks106ew,"This table provides information that classifies households by the presence of dependent children, adults not in employment and people with a long-term health problem or disability. Information is provided for all households in England and Wales as at census day, 27 March 2011.","oa,ps"
+9,NM_607_1,c2011ks107ew,"This table provides information about lone parent households with dependent children, for England and Wales as at census day, 27 March 2011. Households are classified by the sex of the lone parent and their employment status.","oa,ps"
+10,NM_608_1,c2011ks201ew,"This table provides information about the ethnic group of the usual resident population of England and Wales as at census day, 27 March 2011.","oa,ps"
+11,NM_609_1,c2011ks202ew,"This table provides information that classifies usual residents by their national identity, for England and Wales as at census day, 27 March 2011.","oa,ps"
+12,NM_611_1,c2011ks204ew,"This table provides information that classifies usual residents by their county of birth, for England and Wales as at census day, 27 March 2011.","oa,ps"
+13,NM_612_1,c2011ks205ew,"This table provides information that classifies usual residents of England and Wales by passports held as at census day, 27 March 2011.","oa,ps"
+14,NM_613_1,c2011ks206ew,"This table provides information that classifies households by the combination of adults and children within a household that have English (English or Welsh in Wales) as a main language, for England and Wales as at census day, 27 March 2011. The definitions of adult (aged 16 and over) and child (aged under 16) used in this table are the non-standard versions. These are used in a small number of census results. For more information refer to 2011 Census glossary.","oa,ps"
+15,NM_614_1,c2011ks207wa,"This table provides information that classifies usual residents aged three and over by their Welsh language skills, for Wales as at census day, 27 March 2011.","oa,ps"
+16,NM_615_1,c2011ks208wa,"This ""Welsh language profile"" classifies usual residents aged 3 and over by Welsh language skills, for Wales as at census day, 27 March 2011. People with skills in Welsh are further categorised by key age groups","oa,ps"
+17,NM_616_1,c2011ks209ew,"This table provides information that classifies usual residents by religion, for England and Wales as at census day, 27 March 2011.","oa,ps"
+18,NM_617_1,c2011ks301ew,"This table provides information about the health of usual residents, for England and Wales as at census day, 27 March 2011. It also provides information about the number of providers of unpaid care and the number of hours of care that they provide.","oa,ps"
+19,NM_618_1,c2011ks401ew,"This table provides information about dwellings, household spaces and the accommodation type of households, for England and Wales as at census day, 27 March 2011.
+
+The results for dwellings are classified by the number that are shared or unshared, with shared dwellings further categorised by the number of household spaces in each dwelling. Household spaces are classified by the number that are occupied or unoccupied, and by type of accommodation.","oa,ps"
+20,NM_619_1,c2011ks402ew,"This table provides information that classifies households by tenure, for England and Wales as at census day, 27 March 2011.","oa,ps"
+21,NM_621_1,c2011ks404ew,"This table provides information about the number of cars or vans available to members of households, for England and Wales as at census day, 27 March 2011.","oa,ps"
+22,NM_622_1,c2011ks405ew,"This table provides information about the number of communal establishments and the number of usual residents in each type of establishment, for England and Wales as at census day, 27 March 2011.","oa,ps"
+23,NM_623_1,c2011ks501ew,"This table provides information that classifies usual residents aged 16 and over by their highest level of qualification, for England and Wales as at census day, 27 March 2011. The table also includes estimates of the number of schoolchildren and students in full-time education classified by economic activity.","oa,ps"
+24,NM_624_1,c2011ks601ew,"This table provides information that classifies usual residents aged 16 to 74 by economic activity, for England and Wales as at census day, 27 March 2011. It also provides additional information about the unemployed population (including full-time students), with estimates of the number of long-term unemployed, those who have never worked, and the classification of unemployed by key age groups.","oa,ps"
+25,NM_625_1,c2011ks604ew,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the number of hours worked, for England and Wales as at census day, 27 March 2011.","oa,ps"
+26,NM_626_1,c2011ks605ew,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the industry in which they work, for England and Wales as at census day, 27 March 2011.","oa,ps"
+27,NM_627_1,c2011ks608ew,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by occupation, for England and Wales as at census day, 27 March 2011.","oa,ps"
+28,NM_628_1,c2011ks611ew,"This table provides information about the National Statistics Socio-economic Classification (NS-SeC) of usual residents aged 16 to 74, for England and Wales as at census day, 27 March 2011.","oa,ps"
+29,NM_1500_1,c2011ks103uk,"This table provides information that classified usual residents aged 16 and over by marital and civil partnership status, for United Kingdom as at census day, 27 March 2011.
+
+This classification takes account of the Civil Partnership Act which came into force on 5 December 2005, providing information about civil partnership status for the first time in census results.",oa
+30,NM_1501_1,c2011ks104uk,"This table provides information that classifies usual residents aged 16 and over in households by their living arrangements, for United Kingdom as at census day, 27 March 2011. The living arrangements classification differs from marital and civil partnership status because cohabiting takes priority over other categories.",oa
+31,NM_1502_1,c2011ks105uk,"This table provides information that classifies households by the relationships between the household members (household composition), for United Kingdom as at census day, 27 March 2011.",oa
+32,NM_1503_1,c2011ks107uk,"This table provides information about lone parent households with dependent children, for United Kingdom as at census day, 27 March 2011. Households are classified by the sex of the lone parent and their employment status.",oa
+33,NM_1504_1,c2011ks201uk,"This table provides information about the ethnic group of the usual resident population of United Kingdom as at census day, 27 March 2011.
+
+The ethnic group classification presented in this table is the recommended framework from the 'Harmonised Concepts and Questions for Social Data Sources Primary Standards' for presentation of UK outputs on ethnic group.  See 'Ethnic Group Mapping' tab for the correspondence between UK classification and the country specific ethnic group classifications for which data was collected by each UK country.  
+ 
+The category 'White' could include Polish responses from the country specific question for Scotland which would have been outputted to ‘Other White’ and then included under ‘White’ for UK (also see (3) for issue with Gypsy, Traveller and Irish Traveller).  ‘White Africans’ may also have been recorded under ‘Other White’ and then included under ‘White’ for UK. 
+
+For Northern Ireland, ‘Irish Traveller' is collected under its own ethnic group.
+ 
+There are differences in data collection across the UK for ‘Gypsy, Traveller or Irish Traveller’, which make it difficult to produce a UK estimate. Gypsy, Traveller or Irish Traveller is collected in England and Wales and ‘Gypsy/Traveller’ is collected in Scotland and they are both output under ‘White’. However, if there is a need to show a UK output for, 'Gypsy, Traveller or Irish Traveller'(and the numbers are not small or disclosive,) the responses from the GB questions can be combined with the responses from the 'Irish Traveller' category from Northern Ireland.  Northern Ireland's framework for monitoring minority ethnic and migrant people' published by the Office of the First Minister and deputy First Minister in July 2011 recommends that Roma is categorised under 'Other' ethnic group. This is because there is a distinct category for Irish Travellers, who by law (Race Relations Order) are categorised as an ethnic group in their own right. Roma is not a subset of the Irish Traveller group and the need is to have accurate data on both Roma and on Irish Travellers). 
+
+'Mixed / Multiple Ethnic Groups' isn’t broken down for the country specific question for Scotland. 
+
+Differences in the terminology and data collection of the country specific Scotland question make these categories difficult to compare. The ‘African’ category in the Scottish question is presented in a separate section to the ‘Caribbean’ or ‘Black’ category, however, under the harmonised output these two categories are output as part of Black/African/Caribbean/Black British’. The African categories used in Scotland could potentially capture‘White/Asian/Other African’ in addition to ‘Black’ identities.",oa
+34,NM_1505_1,c2011ks301uk,"This table provides information about the health of usual residents, for United Kingdom as at census day, 27 March 2011. It also provides information about the number of providers of unpaid care and the number of hours of care that they provide.",oa
+35,NM_1506_1,c2011ks401uk,"This table provides information about dwellings, household spaces and the accommodation type of households, for United Kingdom as at census day, 27 March 2011.
+
+The results for dwellings are classified by the number that are shared or unshared, with shared dwellings further categorised by the number of household spaces in each dwelling. Household spaces are classified by the number that are occupied or unoccupied, and by type of accommodation.
+
+'All full-time students and schoolchildren aged 4+ years living away from home during term time' figures for Northern Ireland sourced from table QS106NI.
+
+'Household spaces with no usual residents' - in the equivalent country specific table for Scotland (KS401SC) shows a further breakdown of this category of 'household spaces with no usual residents' into (a) second residence / holiday accommodation and (b) vacant household spaces. This is not shown in the UK version of this table.",oa
+36,NM_1507_1,c2011ks402uk,"This table provides information that classifies households by tenure, for United Kingdom as at census day, 27 March 2011.",oa
+37,NM_1508_1,c2011ks404uk,"This table provides information about the number of cars or vans available to members of households, for United Kingdom as at census day, 27 March 2011.",oa
+38,NM_1509_1,c2011ks405uk,"This table provides information about the number of communal establishments and the number of usual residents in each type of establishment, for United Kingdom as at census day, 27 March 2011.
+
+In Northern Ireland this table is numbered KS407NI.
+
+Residents who are staff or owner and partners of staff or owner are not included in this table for Scotland, but are included in this table for England and Wales and Northern Ireland.  Therefore the total number of residents shown in this table for the UK, Great Britain, Scotland and Scottish council areas will not match figures for these areas shown in table QS421UK.",oa
+39,NM_1510_1,c2011ks501uk,"This table provides information that classifies usual residents aged 16 and over by their highest level of qualification, for United Kingdom as at census day, 27 March 2011. The table also includes estimates of the number of schoolchildren and students in full-time education classified by economic activity.
+
+Detail of the qualifications included in each 'highest level of qualification' category is shown here http://www.nomisweb.co.uk/articles/937.aspx
+
+'Apprenticeships' relate to England, Wales and Northern Ireland only.
+ 
+'Other qualifications' relate to England, Wales and Northern Ireland only.  This category consists of other vocational / work-related qualifications and non-UK / foreign qualifications.",oa
+40,NM_1511_1,c2011ks601uk,"This table provides information that classifies usual residents aged 16 to 74 by economic activity, for United Kingdom as at census day, 27 March 2011. It also provides additional information about the unemployed population (including full-time students), with estimates of the number of long-term unemployed, those who have never worked, and the classification of unemployed by key age groups.
+
+The category 'Carried out voluntary work: Aged 16-74 years' only applicable in Northern Ireland is not included in this table.",oa
+41,NM_1512_1,c2011ks602uk,"This table provides information that classifies usual residents aged 16 to 74 by economic activity, for United Kingdom as at census day, 27 March 2011. It also provides additional information about the unemployed population (including full-time students), with estimates of the number of long-term unemployed, those who have never worked, and the classification of unemployed by key age groups.
+
+The category 'Carried out voluntary work: Aged 16-74 years' only applicable in Northern Ireland is not included in this table.",oa
+42,NM_1513_1,c2011ks603uk,"This table provides information that classifies usual residents aged 16 to 74 by economic activity, for United Kingdom as at census day, 27 March 2011. It also provides additional information about the unemployed population (including full-time students), with estimates of the number of long-term unemployed, those who have never worked, and the classification of unemployed by key age groups.
+
+The category 'Carried out voluntary work: Aged 16-74 years' only applicable in Northern Ireland is not included in this table.",oa
+43,NM_1514_1,c2011ks604uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the number of hours worked, for United Kingdom as at census day, 27 March 2011.
+
+In Scotland this table is numbered KS604SCa.",oa
+44,NM_1515_1,c2011ks605uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the industry in which they work, for United Kingdom as at census day, 27 March 2011.",oa
+45,NM_1516_1,c2011ks606uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the industry in which they work, for United Kingdom as at census day, 27 March 2011.",oa
+46,NM_1517_1,c2011ks607uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by the industry in which they work, for United Kingdom as at census day, 27 March 2011.",oa
+47,NM_1518_1,c2011ks608uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by occupation, for United Kingdom as at census day, 27 March 2011.",oa
+48,NM_1519_1,c2011ks609uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by occupation, for United Kingdom as at census day, 27 March 2011.",oa
+49,NM_1520_1,c2011ks610uk,"This table provides information that classifies usual residents aged 16 to 74 in employment the week before the census by occupation, for United Kingdom as at census day, 27 March 2011.",oa
+50,NM_1521_1,c2011ks611uk,"This table provides information about the National Statistics Socio-economic Classification (NS-SeC) of usual residents aged 16 to 74, for United Kingdom as at census day, 27 March 2011.",oa
+51,NM_1522_1,c2011ks612uk,"This table provides information about the National Statistics Socio-economic Classification (NS-SeC) of usual residents aged 16 to 74, for United Kingdom as at census day, 27 March 2011.",oa
+52,NM_1523_1,c2011ks613uk,"This table provides information about the National Statistics Socio-economic Classification (NS-SeC) of usual residents aged 16 to 74, for United Kingdom as at census day, 27 March 2011.",oa
