@@ -1,0 +1,217 @@
+var_final,var_2001,multiplier_2001,var_2011,multiplier_2011,var_2021,multiplier_2021,var_type
+MSOA Code,MSOA11CD,,MSOA11CD,,MSOA11CD,,disc
+MSOA Name,MSOA11NM,,MSOA11NM,,MSOA11NM,,disc
+City Code,TCITY15CD,,TCITY15CD,,TCITY15CD,,disc
+City Name,TCITY15NM,,TCITY15NM,,TCITY15NM,,disc
+Residency: Average number of bedrooms per household,,,Average number of bedrooms per household,1,Average number of bedrooms per household,1,cont
+Sex: Females,Females,1,Females,1,Female,1,cont
+Sex: Males,Males,1,Males,1,Male,1,cont
+Residency: Lives in a communal establishment,People living in communal establishments,1,Lives in a communal establishment,1,Total: All usual residents in communal establishments,1,cont
+Occupancy rating (rooms) of -1 or less,Occupancy rating of -1 or less,0.5,Occupancy rating (rooms) of -1 or less,0.5,Occupancy rating of rooms: -1,1,cont
+Occupancy rating (rooms) of -1 or less,Occupancy rating of -1 or less,0.5,Occupancy rating (rooms) of -1 or less,0.5,Occupancy rating of rooms: -2 or less,1,cont
+Passport: Africa,,,Africa,1,Arica,1,cont
+Passport: Antarctica and Oceania,,,Antarctica and Oceania,1,"Antarctica and Oceania, including Australasia",1,cont
+Passport: Middle East and Asia,,,Middle East and Asia,1,Middle East and Asia,1,cont
+"Passport: Europe, EU",,,Other Europe: EU countries,1,Europe: Other Europe: EU Member countries,1,cont
+"Passport: Europe, Non-EU",,,Other Europe: Non EU countries,1,Europe: Other Europe: Rest of Europe,1,cont
+Passport: British Overseas Territories,,,British Overseas Territories,1,British Overseas Territories,1,cont
+Passport: North America and the Caribbean,,,North America and the Caribbean,1,The Americas and the Caribbean: North America and the Caribbean,1,cont
+Passport: Central and South America,,,Central and South America,1,The Americas and the Caribbean: Central and South America,1,cont
+Passport: UK,,,United Kingdom,1,Europe: United Kingdom,1,cont
+Passport: Ireland,,,Republic of Ireland,1,Europe: Ireland,1,cont
+Passport: No passport,,,No passport,1,No passport held,1,cont
+Employment: Never worked,Never worked,1,Unemployed: Never worked,1,Not in employment: Never worked,1,cont
+Unpaid Care: Provides 1 to 19 hours unpaid care a week,People who provide unpaid care 1 to 19 hours a week,1,Provides 1 to 19 hours unpaid care a week,1,Provides 19 hours or less unpaid care a week,1,cont
+Unpaid Care: Provides 20 to 49 hours unpaid care a week,People who provide unpaid care 20 to 49 hours a week,1,Provides 20 to 49 hours unpaid care a week,1,Provides 20 to 49 hours unpaid care a week,1,cont
+Unpaid Care: Provides 50 or more hours unpaid care a week,People who provide unpaid care 50 or more hours a week,1,Provides 50 or more hours unpaid care a week,1,Provides 50 or more hours unpaid care a week,1,cont
+Unpaid Care: Provides no unpaid care,Provides no unpaid care,1,Provides no unpaid care,1,Provides no unpaid care,1,cont
+Welsh: Can speak and read but cannot write Welsh,Speaks and reads but does not write Welsh,1,Can speak and read but cannot write Welsh,1,Can speak and read but cannot write Welsh,1,cont
+Welsh: Can speak but cannot read or write Welsh,Speaks but does not read or write Welsh,1,Can speak but cannot read or write Welsh,1,Can speak but cannot read or write Welsh,1,cont
+Welsh: No skills in Welsh,No knowledge of Welsh,1,No skills in Welsh,1,No skills in Welsh,1,cont
+Welsh: Other combination of skills in Welsh,Other combination of skills,1,Other combination of skills in Welsh,1,Other combination of skills in Welsh,1,cont
+Full-time: 31 to 48 hours worked,,,Full-time: 31 to 48 hours worked,1,Full-time: 31 to 48 hours worked,1,cont
+Full-time: 49 or more hours worked,,,Full-time: 49 or more hours worked,1,Full-time: 49 or more hours worked,1,cont
+Part-time: 15 hours or less worked,,,Part-time: 15 hours or less worked,1,Part-time: 15 hours or less worked,1,cont
+Part-time: 16 to 30 hours worked,,,Part-time: 16 to 30 hours worked,1,Part-time: 16 to 30 hours worked,1,cont
+Transport to Work: Bicycle,Bicycle,1,,,Bicycle,1,cont
+"Transport to Work: Bus, minibus or coach","Bus, minibus or coach",1,,,"Bus, minibus or coach",1,cont
+Transport to Work: Driving a car or van,Driving a car or van,1,,,Driving a car or van,1,cont
+"Transport to Work: Motorcycle, scooter or moped","Motorcycle, scooter or moped",1,,,"Motorcycle, scooter or moped",1,cont
+Transport to Work: On foot,On foot,1,,,On foot,1,cont
+Transport to Work: Passenger in a car or van,Passenger in a car or van,1,,,Passenger in a car or van,1,cont
+Transport to Work: Taxi,Taxi or minicab,1,,,Taxi,1,cont
+Transport to Work: Train,Train,1,,,Train,1,cont
+"Transport to Work: Underground, metro, light rail, tram","Underground, metro, light rail, tram",1,,,"Underground, metro, light rail, tram",1,cont
+Transport to Work: Work mainly at or from home,Work mainly at or from home,1,,,Work mainly at or from home,1,cont
+Households: Number of households,All households,1,count of Household; All households,1,Number of households,1,cont
+Economic Activity: Economically inactive,Economically Inactive,1,Economically Inactive,1,Economically inactive,1,cont
+Economic Activity: Economically active,Economically active,1,Economically active,1,Economically active and a full-time student,1,cont
+Economic Activity: Economically active: Employee: Full-time,Economically active: Employee: Full-time,1,Economically active: Employee: Full-time,1,Economically active and a full-time student: In employment: Employee: Full-time,1,cont
+Economic Activity: Economically active: Employee: Part-time,Economically active: Employee: Part-time,1,Economically active: Employee: Part-time,1,Economically active and a full-time student: In employment: Employee: Part-time,1,cont
+Economic Activity: Economically active: Full-time student,Economically active: Full-time student,1,Economically active: Full-time student,1,Economically active: Full-time student,1,cont
+Economic Activity: Economically active: In employment,Economically active: In employment,1,Economically active: In employment,1,Economically active and a full-time student:In employment,1,cont
+Economic Activity: Economically active: Self-employed,Economically active: Self-employed,1,Economically active: Self-employed,1,Economically active: Self-employed,1,cont
+Economic Activity: Economically active: Unemployed,Economically active: Unemployed,1,Economically active: Unemployed,1,Economically active and a full-time student: Unemployed,1,cont
+Economic Activity: Economically inactive: Long-term sick or disabled,Economically inactive: Long-term sick or disabled,1,Economically inactive: Long-term sick or disabled,1,Economically inactive: Long-term sick or disabled,1,cont
+Economic Activity: Economically inactive: Looking after home or family,Economically inactive: Looking after home or family,1,Economically inactive: Looking after home or family,1,Economically inactive: Looking after home or family,1,cont
+Economic Activity: Economically inactive: Other,Economically inactive: Other,1,Economically inactive: Other,1,Economically inactive: Other,1,cont
+Economic Activity: Economically inactive: Retired,Economically inactive: Retired,1,Economically inactive: Retired,1,Economically inactive: Retired,1,cont
+Economic Activity: Economically inactive: Student (including full-time students),Economically inactive: Student (including full-time students),1,Economically inactive: Student (including full-time students),1,Economically inactive: Student,1,cont
+Welsh: Can speak Welsh,,,All categories: Can speak Welsh by age 3 and over,1,Can speak Welsh,1,cont
+UK Identity: British only identity,,,British only identity,1,British only identity,1,cont
+UK Identity: Cornish and British only identity,,,Cornish and British only identity,1,Cornish and British only identity,1,cont
+UK Identity: Cornish only identity,,,Cornish only identity,1,Cornish only identity,1,cont
+UK Identity: English and British only identity,,,English and British only identity,1,English and British only identity,1,cont
+UK Identity: English only identity,,,English only identity,1,English only identity,1,cont
+UK Identity: Irish and at least one UK identity,,,Irish and at least one of English/Welsh/Scottish identities (with or without British),1,Irish and at least one UK identity,1,cont
+UK Identity: Irish only identity,,,Irish only identity,1,Irish only identity,1,cont
+UK Identity: Non-UK identity only,,,Other identities only,1,Non-UK identity only,1,cont
+UK Identity: Northern Irish and British only identity,,,"Irish, Northern Irish and British only identity",1,Northern Irish and British only identity,1,cont
+UK Identity: Northern Irish only identity,,,Irish and Northern Irish only identity,1,Northern Irish only identity,1,cont
+UK Identity: Other identity and at least one UK identity,,,Other identities and at least one of English/Welsh/Scottish/Northern Irish/British only,1,Other identity and at least one UK identity,1,cont
+UK Identity: Scottish and British only identity,,,Scottish and British only identity,1,Scottish and British only identity,1,cont
+UK Identity: Scottish only identity,,,Scottish only identity,1,Scottish only identity,1,cont
+UK Identity: Welsh and British only identity,,,Welsh and British only identity,1,Welsh and British only identity,1,cont
+UK Identity: Welsh only identity,,,Welsh only identity,1,Welsh only identity,1,cont
+Vehicles: 1 car or van in household,1 car or van in household,1,1 car or van in household,1,1 car or van in household,1,cont
+Vehicles: 2 cars or vans in household,2 cars or vans in household,1,2 cars or vans in household,1,2 cars or vans in household,1,cont
+Vehicles: 3 or more cars or vans in household,3 or more cars or vans in household,1,3 or more cars or vans in household,1,3 or more cars or vans in household,1,cont
+Vehicles: No cars or vans in household,No cars or vans in household,1,No cars or vans in household,1,No cars or vans in household,1,cont
+"Ethnic Group: Asian, Asian British or Asian Welsh",Asian/Asian British,1,Asian/Asian British,1,"Asian, Asian British or Asian Welsh",1,cont
+"Ethnic Group: Black, Black British, Black Welsh, Caribbean or African",Black/Black British,1,Black/African/Caribbean/Black British,1,"Black, Black British, Black Welsh, Caribbean or African",1,cont
+Ethnic Group: Mixed or Multiple ethnic groups,Mixed,1,Mixed/multiple ethnic groups,1,Mixed or Multiple ethnic groups,1,cont
+Ethnic Group: White,White,1,White,1,White,1,cont
+Ethnic Group: Other ethnic group,Chinese/Other,1,Other Ethnic Group,1,Other ethnic group,1,cont
+"Industry: A: Agriculture, Forestry and fishing","A Agriculture, hunting, forestry",1,"A Agriculture, forestry and fishing",1,"A: Agriculture, Forestry and fishing",1,cont
+Industry: B: Mining and quarrying,B Fishing,1,B Mining and quarrying,1,B: Mining and quarrying,1,cont
+Industry: C: Manufacturing,C Mining and quarrying,1,C Manufacturing,1,C: Manufacturing,1,cont
+"Industry: D: Electricity, gas, steam and air conditioning supply",D Manufacturing,1,"D Electricity, gas, steam and air conditioning supply ",1,"D: Electricity, gas, steam and air conditioning supply",1,cont
+"Industry: E:  Water supply; Sewerage, Waste management and Remediation activities","E Electricity, gas and water supply",1,"E Water supply; sewerage, waste management and remediation activities",1,"E:  Water supply; Sewerage, Waste management and Remediation activities",1,cont
+Industry: F: Construction,F Constructiion,1,F Construction,1,F: Construction,1,cont
+Industry: G: Wholesale and retail trade; repair of motor vehicles and motorcycles,"G Wholesale and retail trade, repair of motor vehicles",1,G Wholesale and retail trade; repair of motor vehicles and motor cycles,1,G: Wholesale and retail trade; repair of motor vehicles and motorcycles,1,cont
+Industry: H: Transport and storage,H Hotels and restaurants,1,H Transport and storage,1,H: Transport and storage,1,cont
+Industry: I: Accommodation and food service activities,I Transport storage and communications,1,I Accommodation and food service activities,1,I: Accommodation and food service activities,1,cont
+Industry: J: Information and communication,J Financial Intermediation,1,J Information and communication,1,J: Information and communication,1,cont
+Industry: K: Financial and insurance activities,"K Real estate,renting and business activities",1,K Financial and insurance activities,1,K: Financial and insurance activities,1,cont
+Industry: L: Real estate activities,"L Public administration and defence, social security",1,L Real estate activities,1,L: Real estate activities,1,cont
+"Industry: M: Professional, scientific and technical activities",M Education,1,"M Professional, scientific and technical activities",1,"M: Professional, scientific and technical activities",1,cont
+Industry: N: Administrative and support service activities,N Health and social work,1,N Administrative and support service activities,1,N: Administrative and support service activities,1,cont
+Industry: O: Public administration and defence; compulsory social security,"O,P,Q Other",0.25,O Public administration and defence; compulsory social security,1,O: Public administration and defence; compulsory social security,1,cont
+Industry: P: Education,"O,P,Q Other",0.25,P Education,1,P: Education,1,cont
+Industry: Q: Human health and social work activities,"O,P,Q Other",0.25,Q Human health and social work activities,1,Q: Human health and social work activities,1,cont
+"Industry: R, S, T, U Other","O,P,Q Other",0.25,"R, S, T, U Other",1,"R, S, T, U Other",1,cont
+Marital Status: Divorced or civil partnership dissolved,Divorced,1,Divorced or formerly in a same-sex civil partnership which is now legally dissolved,1,Divorced or civil partnership dissolved,1,cont
+Marital Status: Married or in a registered civil partnership,Married or in a registered civil partnership,1,Married or in a registered civil partnership,1,Married or in a registered civil partnership,1,cont
+Marital Status: Never married and never registered a civil partnership,Single (never married),1,Single (never married or never registered a same-sex civil partnership),1,Never married and never registered a civil partnership,1,cont
+"Marital Status: Separated, but still legally married or still legally in a civil partnership",Separated (but still legally married),1,Separated (but still legally married or still legally in a same-sex civil partnership),1,"Separated, but still legally married or still legally in a civil partnership",1,cont
+Marital Status: Widowed or surviving civil partnership partner,Widowed,1,Widowed or surviving partner from a same-sex civil partnership,1,Widowed or surviving civil partnership partner,1,cont
+Household Spaces: Caravan or other mobile or temporary structure,Caravan or other mobile or temporary structure,1,Caravan or other mobile or temporary structure,1,A caravan or other mobile or temporary structure,1,cont
+Household Spaces: Whole house or bungalow: Detached,Whole house or bungalow - detatched,1,Whole house or bungalow: Detached,1,Detached,1,cont
+"Household Spaces: Flat, maisonette or apartment: In a commercial building","Flat, maisonette or apartment - in a commercial building",1,"Flat, maisonette or apartment: In a commercial building",1,"In a commercial building, for example, in an office building, hotel or over a shop",1,cont
+"Household Spaces: Flat, maisonette or apartment: Purpose-built block of flats or tenement","Flat, maisonette or apartment - in a purpose built block of flats or tenement",1,"Flat, maisonette or apartment: Purpose-built block of flats or tenement",1,In a purpose-built block of flats or tenement,1,cont
+"Household Spaces: Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)","Flat, maisonette or apartment - part of a converted or shared house (includes bed-sit)",1,"Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)",1,"Part of a converted or shared house, including bedsits",1,cont
+Household Spaces: Whole house or bungalow: Semi-detached,Whole house or bungalow - semi-detatched,1,Whole house or bungalow: Semi-detached,1,Semi-detached,1,cont
+Household Spaces: Whole house or bungalow: Terraced (including end-terrace),Whole house or bungalow - terraced,1,Whole house or bungalow: Terraced (including end-terrace),1,Terraced,1,cont
+Medical and care establishment: Local Authority: Care home or other home,Medical and care establishments - Local Authority - Other,1,Medical and care establishment: Local Authority: Care home or other home,1,Medical and care establishment: Local Authority: Care home or other home,1,cont
+"Medical and care establishment: Local Authority: Children's home (including secure units),","Medical and care establishments - Local Authority - Children's home,",1,"Medical and care establishment: Local Authority: Children's home (including secure units),",1,"Medical and care establishment: Local Authority: Children's home (including secure units),",1,cont
+Medical and care establishment: NHS: General hospital,,,Medical and care establishment: NHS: General hospital,1,Medical and care establishment: NHS: General hospital,1,cont
+Medical and care establishment: NHS: Mental health hospital or unit (including secure units),Medical and care establishments - NHS - Psychiatric hospital / home,1,Medical and care establishment: NHS: Mental health hospital/unit (including secure units),1,Medical and care establishment: NHS: Mental health hospital or unit (including secure units),1,cont
+Medical and care establishment: NHS: Other hospital,Medical and care establishments - NHS - Other hospital home,1,Medical and care establishment: NHS: Other hospital,1,Medical and care establishment: NHS: Other hospital,1,cont
+Medical and care establishment:Other,Medical and care establishments - Other,1,Medical and care establishment: Other,1,Medical and care establishment:Other,1,cont
+Medical and care establishment: Other: Care home with nursing,Medical and care establishments - Other - Nursing home,1,Medical and care establishment: Other: Care home with nursing,1,Medical and care establishment: Other: Care home with nursing,1,cont
+Medical and care establishment: Other: Care home without nursing,Medical and care establishments - Other - Residential care home,1,Medical and care establishment: Other: Care home without nursing,1,Medical and care establishment: Other: Care home without nursing,1,cont
+"Medical and care establishment: Other: Children's home (including secure units),",Medical and care establishments - Other - Children's home,1,"Medical and care establishment: Other: Children's home (including secure units),",1,"Medical and care establishment: Other: Children's home (including secure units),",1,cont
+Medical and care establishment:Registered Social Landlord or Housing Association,Medical and care establishments - Housing association,1,Medical and care establishment: Registered Social Landlord/Housing Association,1,Medical and care establishment:Registered Social Landlord or Housing Association,1,cont
+Other establishments,Other establishments,1,Other establishments,1,Other establishment,1,cont
+"Position: Higher managerial, administrative and professional occupations",1. Managers and senior officials,1,"1. Higher managerial, administrative and professional occupations",1,"L1, L2 and L3 Higher managerial, administrative and professional occupations",1,cont
+Position: Lower supervisory and technical occupations,Lower supervisory and technical occupations,1,5. Lower supervisory and technical occupations,1,L10 and L11 Lower supervisory and technical occupations,1,cont
+Position: Semi-routine occupations,Semi-routine occupations,1,6. Semi-routine occupations,1,L12 Semi-routine occupations,1,cont
+Position: Routine occupations,Routine occupations,1,7. Routine occupations,1,L13 Routine occupations,1,cont
+Position: Never worked and long-term unemployed,Never worked,1,8. Never worked and long-term unemployed,1,L14.1 and L14.2 Never worked and long-term unemployed,1,cont
+Position: Full-time students,Full-time students,1,L15 Full-time students,1,L15 Full-time students,1,cont
+"Position: Lower managerial, administrative and professional occupations","Lower managerial, administrative and professional occupations",1,"2. Lower managerial, administrative and professional occupations",1,"L4, L5 and L6 Lower managerial, administrative and professional occupations",1,cont
+Position: Intermediate occupations,Intermediate occupations,1,3. Intermediate occupations,1,L7 Intermediate occupations,1,cont
+Position: Small employers and own account workers,Small employers and own account workers,1,4. Small employers and own account workers,1,L8 and L9 Small employers and own account workers,1,cont
+Religion: Muslim,Muslim,1,Muslim,1,Muslim,1,cont
+Religion: No religion,No religion,1,No religion,1,No religion,1,cont
+Religion: Christian,Christian,1,Christian,1,Christian,1,cont
+Religion: Buddhist,Buddhist,1,Buddhist,1,Buddhist,1,cont
+Religion: Hindu,Hindu,1,Hindu,1,Hindu,1,cont
+Religion: Jewish,Jewish,1,Jewish,1,Jewish,1,cont
+Religion: Sikh,Sikh,1,Sikh,1,Sikh,1,cont
+Religion: Other religion,Other religion,1,Other religion,1,Other religion,1,cont
+Religion: Not answered,Religion not stated,1,Religion not stated,1,Not answered,1,cont
+Highest Level of Qualification: Apprenticeship,,,Highest level of qualification: Apprenticeship,1,Apprenticeship,1,cont
+Highest Level of Qualification: Level 1 and entry level qualifications,,,Highest level of qualification: Level 1 qualifications,1,Level 1 and entry level qualifications,1,cont
+Highest Level of Qualification: Level 2 qualifications,,,Highest level of qualification: Level 2 qualifications,1,Level 2 qualifications,1,cont
+Highest Level of Qualification: Level 3 qualifications,,,Highest level of qualification: Level 3 qualifications,1,Level 3 qualifications,1,cont
+Highest Level of Qualification: Level 4 qualifications or above,,,Highest level of qualification: Level 4 qualifications and above,1,Level 4 qualifications or above,1,cont
+Highest Level of Qualification: No qualifications,,,No qualifications,1,No qualifications,1,cont
+Highest Level of Qualification: Other qualifications,,,Highest level of qualification: Other qualifications,1,Other qualifications,1,cont
+"Occupation: Managers, directors and senior officials",1. Managers and senior officials,1,"1. Managers, directors and senior officials",1,"1. Managers, directors and senior officials",1,cont
+Occupation: Professional occupations,2. Professional occupations,1,2. Professional occupations,1,2. Professional occupations,1,cont
+Occupation: Associate professional and technical occupations,3. Associate professional and technical occupations,1,3. Associate professional and technical occupations,1,3. Associate professional and technical occupations,1,cont
+Occupation: Administrative and secretarial occupations,4. Administrative and secretarial occupations,1,4. Administrative and secretarial occupations,1,4. Administrative and secretarial occupations,1,cont
+Occupation: Skilled trades occupations,5. Skilled trades occupations,1,5. Skilled trades occupations,1,5. Skilled trades occupations,1,cont
+"Occupation: Caring, leisure and other service occupations",6. Personal service occupations,1,"6. Caring, leisure and other service occupations",1,"6. Caring, leisure and other service occupations",1,cont
+Occupation: Sales and customer service occupations,7. Sales and customer service occupations,1,7. Sales and customer service occupations,1,7. Sales and customer service occupations,1,cont
+"Occupation: Process, plant and machine operatives","8. Process, plant and machine operatives",1,8. Process plant and machine operatives,1,"8. Process, plant and machine operatives",1,cont
+Occupation: Elementary occupations,9. Elementary occupations,1,9. Elementary occupations,1,9. Elementary occupations,1,cont
+"Main Language: All adults in household have English in England, or English or Welsh in Wales as a main language",,,All people aged 16 and over in household have English as a main language (English or Welsh in Wales),1,"All adults in household have English in England, or English or Welsh in Wales as a main language",1,cont
+"Main Language: At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language",,,At least one but not all people aged 16 and over in household have English as a main language (English or Welsh in Wales),1,"At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language",1,cont
+"Main Language: No adults in household, but at least one person aged 3 to 15 years, has English in England or English or Welsh in Wales as a main language",,,No people aged 16 and over in household but at least one person aged 3 to 15 has English as a main language (English or Welsh in Wales),1,"No adults in household, but at least one person aged 3 to 15 years, has English in England or English or Welsh in Wales as a main language",1,cont
+"Main Language: No people in household have English in England, or English or Welsh in Wales as a main language",,,No people in household have English as a main language (English or Welsh in Wales),1,"No people in household have English in England, or English or Welsh in Wales as a main language",1,cont
+Health Status: Bad health,,,Bad health,1,Bad health,1,cont
+Health Status: Fair health,,,Fair health,1,Fair health,1,cont
+Health Status: Good health,,,Good health,1,Good health,1,cont
+Health Status: Very bad health,,,Very bad health,1,Very bad health,1,cont
+Health Status: Very good health,,,Very good health,1,Very good health,1,cont
+Ownership: Owned: Owns outright,Owned outright,1,Owned: Owned outright,1,Owned: Owns outright,1,cont
+Ownership: Owned: Owns with a mortgage or loan,Owned with a mortgage or loan,1,Owned: Owned with a mortgage or loan,1,Owned: Owns with a mortgage or loan,1,cont
+Ownership: Private rented: Other private rented,,,Private rented: Other,1,Private rented: Other private rented,1,cont
+Ownership: Private rented: Private landlord or letting agency,Rented from a private landlord or letting agency,1,Private rented: Private landlord or letting agency,1,Private rented: Private landlord or letting agency,1,cont
+Ownership: Shared ownership,Shared ownership,1,Shared ownership (part owned and part rented),1,Shared ownership,1,cont
+Ownership: Social rented: Other social rented,Rented from a housing association/registered social landlord,1,Social rented: Other,1,Social rented: Other social rented,1,cont
+Ownership: Social rented: Rents from council or Local Authority,Rented from council(local authority),1,Social rented: Rented from council (Local Authority),1,Social rented: Rents from council or Local Authority,1,cont
+Ownership: Lives rent free,,,Living rent free,1,Lives rent free,1,cont
+Disabled under the Equality Act: Day-to-day activities limited a little,,,Day-to-day activities limited a little,1,Disabled under the Equality Act: Day-to-day activities limited a little,1,cont
+Disabled under the Equality Act: Day-to-day activities limited a lot,,,Day-to-day activities limited a lot,1,Disabled under the Equality Act: Day-to-day activities limited a lot,1,cont
+Not disabled under the Equality Act: Has long term physical or mental health condition but day-to-day activities are not limited,,,Day-to-day activities not limited,1,Not disabled under the Equality Act: Has long term physical or mental health condition but day-to-day activities are not limited,1,cont
+Living in a couple,Living in a couple,1,Living in a couple,1,Living in a couple,1,cont
+Living in a couple: Cohabiting,Living in a couple: Cohabiting,1,Living in a couple: Cohabiting,1,Living in a couple: Cohabiting,1,cont
+Living in a couple: Married or in a civil partnership,Living in a couple: Married or re-married,1,Living in a couple: Married or in a registered same-sex civil partnership,1,Living in a couple: Married or in a civil partnership,1,cont
+Not living in a couple,Not living in a couple,1,Not living in a couple,1,Not living in a couple,1,cont
+Not living in a couple: Divorced or formerly in a civil partnership which is now legally dissolved,Not living in a couple: Divorced,1,Not living in a couple: Divorced or formerly in a same-sex civil partnership which is now legally dissolved,1,Not living in a couple: Divorced or formerly in a civil partnership which is now legally dissolved,1,cont
+Not living in a couple: Married or in a registered civil partnership,Not living in a couple: Married or re-married,1,Not living in a couple: Married or in a registered same-sex civil partnership,1,Not living in a couple: Married or in a registered civil partnership,1,cont
+Not living in a couple: Separated (including those who are married and those who are in civil partnerships),Not living in a couple: Separated (but still legally married),1,Not living in a couple: Separated (but still legally married or still legally in a same-sex civil partnership),1,Not living in a couple: Separated (including those who are married and those who are in civil partnerships),1,cont
+Not living in a couple: Single (never married and never registered a civil partnership),Not living in a couple: Single (never married),1,Not living in a couple: Single (never married or never registered a same-sex civil partnership),1,Not living in a couple: Single (never married and never registered a civil partnership),1,cont
+Not living in a couple: Widowed or surviving partner from a civil partnership,Not living in a couple: Widowed,1,Not living in a couple: Widowed or surviving partner from a same-sex civil partnership,1,Not living in a couple: Widowed or surviving partner from a civil partnership,1,cont
+One-person household: Aged 66 years and over,One person household - Pensioner,1,One person household: Aged 65 and over,1,One-person household: Aged 66 years and over,1,cont
+One-person household: Other,One person household - Other,1,One person household: Other,1,One-person household: Other,1,cont
+"Other household types: Other, including all full-time students and all aged 66 years and over",Other households - All students,1,Other household types: All full-time students,1,"Other household types: Other, including all full-time students and all aged 66 years and over",0.5,cont
+"Other household types: Other, including all full-time students and all aged 66 years and over",Other households - All pensioner,1,Other household types: All aged 65 and over,1,"Other household types: Other, including all full-time students and all aged 66 years and over",0.5,cont
+Other household types: With dependent children,Other households - With dependent children,1,Other household types: With dependent children,1,Other household types: With dependent children,1,cont
+Single family household,One family and no others,1,One family household,1,Single family household,1,cont
+Single family household: All aged 66 years and over,One family and no others - All pensioners,1,One family only: All aged 65 and over,1,Single family household: All aged 66 years and over,1,cont
+Single family household: Cohabiting couple family: All children non-dependent,One family and no others - cohabiting couple households - all children non-dependent,1,One family only: Cohabiting couple: All children non-dependent,1,Single family household: Cohabiting couple family: All children non-dependent,1,cont
+Single family household: Cohabiting couple family: No children,One family and no others - cohabiting couple households - no children,1,One family only: Cohabiting couple: No children,1,Single family household: Cohabiting couple family: No children,1,cont
+Single family household: Cohabiting couple family: With dependent children,One family and no others - cohabiting couple households - with dependent children,1,One family only: Cohabiting couple: Dependent children,1,Single family household: Cohabiting couple family: With dependent children,1,cont
+Single family household: Lone parent family: All children non-dependent,One family and no others - Lone parent households - all children non-dependent,1,One family only: Lone parent: All children non-dependent,1,Single family household: Lone parent family: All children non-dependent,1,cont
+Single family household: Lone parent family: With dependent children,One family and no others - Lone parent households - with dependent children,1,One family only: Lone parent: Dependent children,1,Single family household: Lone parent family: With dependent children,1,cont
+Single family household: Married or civil partnership couple: All children non-dependent,One family and no others - married couple households - all children non-dependent,1,One family only: Married or same-sex civil partnership couple: All children non-dependent,1,Single family household: Married or civil partnership couple: All children non-dependent,1,cont
+Single family household: Married or civil partnership couple: Dependent children,One family only: Married or same-sex civil partnership couple: Dependent children,1,One family only: Married or same-sex civil partnership couple: Dependent children,1,Single family household: Married or civil partnership couple: Dependent children,1,cont
+Single family household: Married or civil partnership couple: No children,One family and no others - married couple households - no children,1,One family only: Married or same-sex civil partnership couple: No children,1,Single family household: Married or civil partnership couple: No children,1,cont
+Median house price,Median house price,1,Median house price,1,Median house price,1,cont
+Total annual income (£),,,Total weekly income (£),12,Total annual income (£),1,cont
+Age: 10 to 14,Age 10 to 14,1,Age 10 to 14,1,Aged 10 to 14 years,1,cont
+Age: 15 to 19,Age 15 to 19 years,1,Age 15 to 19 years,1,Aged 15 to 19 years,1,cont
+Age: 20 to 24,Age 20 to 24,1,Age 20 to 24,1,Aged 20 to 24 years,1,cont
+Age: 25 to 29,Age 25 to 29,1,Age 25 to 29,1,Aged 25 to 29 years,1,cont
+Age: 30 to 44,Age 30 to 44,1,Age 30 to 44,1,Age 30 to 44,1,cont
+Age: 45 to 59,Age 45 to 59,1,Age 45 to 59,1,Age 45 to 59,1,cont
+Age: 0 to 4,Age 0 to 4,1,Age 0 to 4,1,Aged 4 years and under,1,cont
+Age: 5 to 9,Aged 5 to 9 years,1,Aged 5 to 9 years,1,Aged 5 to 9 years,1,cont
+Age: 60 to 64,Age 60 to 64,1,Age 60 to 64,1,Aged 60 to 64 years,1,cont
+Age: 65 to 74,Age 65 to 74,1,Age 65 to 74,1,Age 65 to 74,1,cont
+Age: 75 to 84,Age 75 to 84,1,Age 75 to 84,1,Age 75 to 84,1,cont
+Age: 85 years and over,Aged 85 years and over,1,Aged 85 years and over,1,Aged 85 years and over,1,cont
