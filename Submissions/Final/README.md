@@ -4,21 +4,21 @@ This package aims to predict which neighborhoods in each UK city will gentrify o
 
 The package has the following file structure:
 
-├───CODE
-│   ├───code
-│   ├───data
-│   │   ├───clean
-│   │   └───raw
-│   │       ├───api
-│   │       │   └───msoa
-│   │       │       └───counts
-│   │       │           ├───c2011
-│   │       │           └───c2021
-│   │       ├───geoportal
-│   │       ├───govuk
-│   │       └───ons
-│   └───viz
-└───DOC
+    ├───CODE
+    │   ├───code
+    │   ├───data
+    │   │   ├───clean
+    │   │   └───raw
+    │   │       ├───api
+    │   │       │   └───msoa
+    │   │       │       └───counts
+    │   │       │           ├───c2011
+    │   │       │           └───c2021
+    │   │       ├───geoportal
+    │   │       ├───govuk
+    │   │       └───ons
+    │   └───viz
+    └───DOC
 
 For an overview of the project, including literature review, methodology, and conclusions, view the files in the DOC folder. The final visualization can be found in the CODE/viz folder.
 
