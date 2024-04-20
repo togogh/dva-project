@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-This package aims to predict which neighborhoods in each UK city will gentrify over the next decade, and makes this information accessible using an intuitive and interactive map.
+This package aims to predict which neighborhoods in each UK city will gentrify over the next decade, and make this information accessible using an intuitive and interactive map.
 
 The package has the following file structure:
 
