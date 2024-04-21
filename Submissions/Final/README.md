@@ -28,13 +28,20 @@ If you would like to replicate our process and view the raw data, you can find a
 
 NOTE: This package uses Python.
 
-In order to run all the code in this package, you will need to extract the CODE folder to your local files. Then we would recommend starting a virtual environment by running `python -m venv venv` in the terminal and running `pip install -r ELT_requirements.txt` to make sure you have all the necessary packages.
+In order to run all the code in this package, you will need to extract the CODE folder to your local files. Then we would recommend starting a virtual environment and running `pip install -r ELT_requirements.txt modeling_and_analysis_ipynb_requirements.txt` to make sure you have all the necessary libraries.
+
+If you would like to view the final visualization, please [download](https://powerbi.microsoft.com/en-us/downloads/) and install Microsoft Power BI Desktop. The free version is good enough.
 
 # EXECUTION
 
-Run the files in this order:
-
-1. dataEL.py
-2. dataTPercentify.py
-3. dataTCompile.py
-4. For, "Manchester LSOA Modeling.ipynb", "UK Gentrification NN.ipynb", "UK Gentrification RF_XGB_SHAP.ipynb", "Post Modeling Gentrification Analysis.ipynb" run the cells in each notebook sequentially. The required CSVs are in "modeling_data folder."
+1. Data (Run the files in this order. Income and pricing data have been included in the package, but census data will have to be downloaded because the file size is too big to be included here)
+    - dataEL.py
+    - dataTPercentify.py
+    - dataTCompile.py
+2. Modeling (Run the cells in each notebook sequentially. The required CSVs are in "modeling_data" folder)
+    - Manchester LSOA Modeling.ipynb
+    - UK Gentrification NN.ipynb
+    - UK Gentrification RF_XGB_SHAP.ipynb
+    - Post Modeling Gentrification Analysis.ipynb
+3. Visualization (Open the following file in Power BI)
+    - Gentrification Analysis.pbix
