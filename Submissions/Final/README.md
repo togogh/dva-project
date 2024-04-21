@@ -37,4 +37,4 @@ Run the files in this order:
 1. dataEL.py
 2. dataTPercentify.py
 3. dataTCompile.py
-4.
+4. For, "Manchester LSOA Modeling.ipynb", "UK Gentrification NN.ipynb", "UK Gentrification RF_XGB_SHAP.ipynb", "Post Modeling Gentrification Analysis.ipynb" run the cells in each notebook sequentially. The required CSVs are in "modeling_data folder."
